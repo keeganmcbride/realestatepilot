@@ -1,0 +1,466 @@
+"","V1","schoolTestScores.school.or.criterion","schoolTestScores.school.year","schoolTestScores.N","schoolTestScores.exam","schoolTestScores.Mean","schoolTestScores.Median"
+"1",1,"Ehte Humanitaarg<fc>mnaasium","2013/14",36,"Eesti keel teise keelena riigieksam",70.6,72
+"2",2,"Ehte Humanitaarg<fc>mnaasium","2013/14",26,"Kitsa matemaatika riigieksam",27.8,22
+"3",3,"Ehte Humanitaarg<fc>mnaasium","2013/14",10,"Laia matemaatika riigieksam",72.1,73
+"4",4,"Gustav Adolfi G<fc>mnaasium","2013/14",125,"Eesti keele riigieksam",78.7,79
+"5",5,"Gustav Adolfi G<fc>mnaasium","2013/14",34,"Kitsa matemaatika riigieksam",51.9,52
+"6",6,"Gustav Adolfi G<fc>mnaasium","2013/14",91,"Laia matemaatika riigieksam",73.2,78
+"7",7,"Haabersti Vene G<fc>mnaasium","2013/14",29,"Eesti keel teise keelena riigieksam",76.8,82
+"8",8,"Haabersti Vene G<fc>mnaasium","2013/14",16,"Kitsa matemaatika riigieksam",24.9,22
+"9",9,"Haabersti Vene G<fc>mnaasium","2013/14",13,"Laia matemaatika riigieksam",45.2,46
+"10",10,"Jakob Westholmi G<fc>mnaasium","2013/14",61,"Eesti keele riigieksam",69.7,69
+"11",11,"Jakob Westholmi G<fc>mnaasium","2013/14",35,"Kitsa matemaatika riigieksam",45.6,40
+"12",12,"Jakob Westholmi G<fc>mnaasium","2013/14",26,"Laia matemaatika riigieksam",71,72
+"13",13,"Kadrioru Saksa G<fc>mnaasium","2013/14",70,"Eesti keele riigieksam",64.5,66
+"14",14,"Kadrioru Saksa G<fc>mnaasium","2013/14",28,"Kitsa matemaatika riigieksam",28.3,26
+"15",15,"Kadrioru Saksa G<fc>mnaasium","2013/14",41,"Laia matemaatika riigieksam",47.9,49
+"16",16,"Lasnam<e4>e G<fc>mnaasium","2013/14",55,"Eesti keel teise keelena riigieksam",75.4,79
+"17",17,"Lasnam<e4>e G<fc>mnaasium","2013/14",43,"Kitsa matemaatika riigieksam",28.5,23
+"18",18,"Lasnam<e4>e G<fc>mnaasium","2013/14",12,"Laia matemaatika riigieksam",66.9,74
+"19",19,"Lasnam<e4>e Vene G<fc>mnaasium","2013/14",34,"Eesti keel teise keelena riigieksam",73.1,80
+"20",20,"Lasnam<e4>e Vene G<fc>mnaasium","2013/14",26,"Kitsa matemaatika riigieksam",21.6,18
+"21",21,"Lasnam<e4>e Vene G<fc>mnaasium","2013/14",9,"Laia matemaatika riigieksam",36,30
+"22",22,"Pelgulinna G<fc>mnaasium","2013/14",49,"Eesti keele riigieksam",56.3,55
+"23",23,"Pelgulinna G<fc>mnaasium","2013/14",20,"Kitsa matemaatika riigieksam",15.6,16
+"24",24,"Pelgulinna G<fc>mnaasium","2013/14",29,"Laia matemaatika riigieksam",28.4,26
+"25",25,"Pirita Majandusg<fc>mnaasium","2013/14",40,"Eesti keele riigieksam",52.5,50
+"26",26,"Pirita Majandusg<fc>mnaasium","2013/14",19,"Kitsa matemaatika riigieksam",33.5,32
+"27",27,"Pirita Majandusg<fc>mnaasium","2013/14",21,"Laia matemaatika riigieksam",49.6,50
+"28",28,"Tallinna 21. Kool","2013/14",96,"Eesti keele riigieksam",73.8,76
+"29",29,"Tallinna 21. Kool","2013/14",26,"Kitsa matemaatika riigieksam",41.8,40
+"30",30,"Tallinna 21. Kool","2013/14",70,"Laia matemaatika riigieksam",59.9,60
+"31",31,"Tallinna 32. Keskkool","2013/14",110,"Eesti keele riigieksam",62.7,65
+"32",32,"Tallinna 32. Keskkool","2013/14",53,"Kitsa matemaatika riigieksam",25.5,23
+"33",33,"Tallinna 32. Keskkool","2013/14",57,"Laia matemaatika riigieksam",35.5,31
+"34",34,"Tallinna 53. Keskkool","2013/14",42,"Eesti keel teise keelena riigieksam",64.8,69
+"35",35,"Tallinna 53. Keskkool","2013/14",27,"Kitsa matemaatika riigieksam",40,39
+"36",36,"Tallinna 53. Keskkool","2013/14",16,"Laia matemaatika riigieksam",75.8,82
+"37",37,"Tallinna Arte G<fc>mnaasium","2013/14",61,"Eesti keele riigieksam",65.3,68
+"38",38,"Tallinna Arte G<fc>mnaasium","2013/14",26,"Kitsa matemaatika riigieksam",21.7,20
+"39",39,"Tallinna Arte G<fc>mnaasium","2013/14",35,"Laia matemaatika riigieksam",41,40
+"40",40,"Tallinna Humanitaarg<fc>mnaasium","2013/14",37,"Eesti keel teise keelena riigieksam",85.3,91
+"41",41,"Tallinna Humanitaarg<fc>mnaasium","2013/14",11,"Kitsa matemaatika riigieksam",41,37
+"42",42,"Tallinna Humanitaarg<fc>mnaasium","2013/14",30,"Laia matemaatika riigieksam",53.9,54
+"43",43,"Tallinna Juudi Kool","2013/14",12,"Eesti keel teise keelena riigieksam",68,65
+"44",44,"Tallinna Juudi Kool","2013/14",6,"Kitsa matemaatika riigieksam",33.5,36
+"45",45,"Tallinna Juudi Kool","2013/14",6,"Laia matemaatika riigieksam",56.7,56
+"46",46,"Tallinna J<e4>rveotsa G<fc>mnaasium","2013/14",29,"Eesti keele riigieksam",66.9,67
+"47",47,"Tallinna J<e4>rveotsa G<fc>mnaasium","2013/14",7,"Kitsa matemaatika riigieksam",19.3,22
+"48",48,"Tallinna J<e4>rveotsa G<fc>mnaasium","2013/14",22,"Laia matemaatika riigieksam",39.9,38
+"49",49,"Tallinna Kesklinna Vene G<fc>mnaasium","2013/14",26,"Eesti keel teise keelena riigieksam",67.9,68
+"50",50,"Tallinna Kesklinna Vene G<fc>mnaasium","2013/14",20,"Kitsa matemaatika riigieksam",30.1,27
+"51",51,"Tallinna Kesklinna Vene G<fc>mnaasium","2013/14",11,"Laia matemaatika riigieksam",66.5,72
+"52",52,"Tallinna Kristiine G<fc>mnaasium","2013/14",22,"Eesti keele riigieksam",56,56
+"53",53,"Tallinna Kristiine G<fc>mnaasium","2013/14",11,"Kitsa matemaatika riigieksam",27.8,25
+"54",54,"Tallinna Kristiine G<fc>mnaasium","2013/14",11,"Laia matemaatika riigieksam",44.4,45
+"55",55,"Tallinna Kunstig<fc>mnaasium","2013/14",21,"Eesti keele riigieksam",61.1,63
+"56",56,"Tallinna Kunstig<fc>mnaasium","2013/14",18,"Kitsa matemaatika riigieksam",18.6,18
+"57",57,"Tallinna Kuristiku G<fc>mnaasium","2013/14",41,"Eesti keele riigieksam",54.3,53
+"58",58,"Tallinna Kuristiku G<fc>mnaasium","2013/14",27,"Kitsa matemaatika riigieksam",39.1,35
+"59",59,"Tallinna Kuristiku G<fc>mnaasium","2013/14",14,"Laia matemaatika riigieksam",67.9,74
+"60",60,"Tallinna Laagna G<fc>mnaasium","2013/14",28,"Eesti keele riigieksam",59.1,65
+"61",61,"Tallinna Laagna G<fc>mnaasium","2013/14",18,"Kitsa matemaatika riigieksam",37.8,38
+"62",62,"Tallinna Laagna G<fc>mnaasium","2013/14",10,"Laia matemaatika riigieksam",76.2,76
+"63",63,"Tallinna Lillek<fc>la G<fc>mnaasium","2013/14",64,"Eesti keele riigieksam",65.3,67
+"64",64,"Tallinna Lillek<fc>la G<fc>mnaasium","2013/14",22,"Kitsa matemaatika riigieksam",30.9,24
+"65",65,"Tallinna Lillek<fc>la G<fc>mnaasium","2013/14",42,"Laia matemaatika riigieksam",46.5,42
+"66",66,"Tallinna Linnam<e4>e Vene L<fc>tseum","2013/14",46,"Eesti keel teise keelena riigieksam",71.4,69
+"67",67,"Tallinna Linnam<e4>e Vene L<fc>tseum","2013/14",18,"Kitsa matemaatika riigieksam",47.4,44
+"68",68,"Tallinna Linnam<e4>e Vene L<fc>tseum","2013/14",29,"Laia matemaatika riigieksam",66.8,70
+"69",69,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2013/14",50,"Eesti keel teise keelena riigieksam",76.2,84
+"70",70,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2013/14",38,"Kitsa matemaatika riigieksam",27.7,24
+"71",71,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2013/14",12,"Laia matemaatika riigieksam",70.9,71
+"72",72,"Tallinna Mustam<e4>e G<fc>mnaasium","2013/14",47,"Eesti keele riigieksam",62.5,62
+"73",73,"Tallinna Mustam<e4>e G<fc>mnaasium","2013/14",7,"Kitsa matemaatika riigieksam",21.6,21
+"74",74,"Tallinna Mustam<e4>e G<fc>mnaasium","2013/14",40,"Laia matemaatika riigieksam",41.2,40
+"75",75,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2013/14",29,"Eesti keel teise keelena riigieksam",86.8,92
+"76",76,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2013/14",23,"Kitsa matemaatika riigieksam",40.3,35
+"77",77,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2013/14",10,"Laia matemaatika riigieksam",64.8,69
+"78",78,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2013/14",23,"Eesti keel teise keelena riigieksam",66.6,66
+"79",79,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2013/14",7,"Kitsa matemaatika riigieksam",14.7,9
+"80",80,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2013/14",16,"Laia matemaatika riigieksam",31.7,29
+"81",81,"Tallinna Mustj<f5>e G<fc>mnaasium","2013/14",54,"Eesti keel teise keelena riigieksam",66.5,70
+"82",82,"Tallinna Mustj<f5>e G<fc>mnaasium","2013/14",44,"Kitsa matemaatika riigieksam",28.1,22
+"83",83,"Tallinna Mustj<f5>e G<fc>mnaasium","2013/14",10,"Laia matemaatika riigieksam",59.5,60
+"84",84,"Tallinna N<f5>mme G<fc>mnaasium","2013/14",60,"Eesti keele riigieksam",65.5,65
+"85",85,"Tallinna N<f5>mme G<fc>mnaasium","2013/14",24,"Kitsa matemaatika riigieksam",40.1,31
+"86",86,"Tallinna N<f5>mme G<fc>mnaasium","2013/14",37,"Laia matemaatika riigieksam",51.1,50
+"87",87,"Tallinna Pae G<fc>mnaasium","2013/14",13,"Eesti keel teise keelena riigieksam",85.3,88
+"88",88,"Tallinna Pae G<fc>mnaasium","2013/14",10,"Kitsa matemaatika riigieksam",44,37
+"89",89,"Tallinna Prantsuse L<fc>tseum","2013/14",45,"Eesti keele riigieksam",77.8,80
+"90",90,"Tallinna Prantsuse L<fc>tseum","2013/14",19,"Kitsa matemaatika riigieksam",72.8,81
+"91",91,"Tallinna Prantsuse L<fc>tseum","2013/14",26,"Laia matemaatika riigieksam",81.3,86
+"92",92,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2013/14",27,"Eesti keele riigieksam",49.8,47
+"93",93,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2013/14",20,"Kitsa matemaatika riigieksam",15.2,14
+"94",94,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2013/14",7,"Laia matemaatika riigieksam",36.9,38
+"95",95,"Tallinna Reaalkool","2013/14",100,"Eesti keele riigieksam",79.7,81
+"96",96,"Tallinna Reaalkool","2013/14",101,"Laia matemaatika riigieksam",85.6,88
+"97",97,"Tallinna Saksa G<fc>mnaasium","2013/14",64,"Eesti keele riigieksam",65.4,66
+"98",98,"Tallinna Saksa G<fc>mnaasium","2013/14",19,"Kitsa matemaatika riigieksam",23.3,22
+"99",99,"Tallinna Saksa G<fc>mnaasium","2013/14",24,"Laia matemaatika riigieksam",38.8,34
+"100",100,"Tallinna S<fc>dalinna Kool","2013/14",24,"Eesti keele riigieksam",51.4,48
+"101",101,"Tallinna S<fc>dalinna Kool","2013/14",12,"Kitsa matemaatika riigieksam",16.4,16
+"102",102,"Tallinna S<fc>dalinna Kool","2013/14",12,"Laia matemaatika riigieksam",15.2,14
+"103",103,"Tallinna Tehnikag<fc>mnaasium","2013/14",61,"Eesti keele riigieksam",61.2,62
+"104",104,"Tallinna Tehnikag<fc>mnaasium","2013/14",60,"Laia matemaatika riigieksam",44.4,39
+"105",105,"Tallinna T<f5>nism<e4>e Reaalkool","2013/14",46,"Eesti keel teise keelena riigieksam",79.7,82
+"106",106,"Tallinna T<f5>nism<e4>e Reaalkool","2013/14",27,"Kitsa matemaatika riigieksam",53.9,54
+"107",107,"Tallinna T<f5>nism<e4>e Reaalkool","2013/14",24,"Laia matemaatika riigieksam",72.8,78
+"108",108,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2013/14",54,"Eesti keele riigieksam",60.5,62
+"109",109,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2013/14",22,"Kitsa matemaatika riigieksam",24.6,24
+"110",110,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2013/14",32,"Laia matemaatika riigieksam",52.8,52
+"111",111,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2013/14",39,"Eesti keel teise keelena riigieksam",82.5,85
+"112",112,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2013/14",18,"Kitsa matemaatika riigieksam",33.1,33
+"113",113,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2013/14",25,"Laia matemaatika riigieksam",65.4,75
+"114",114,"Tallinna <dc>hisg<fc>mnaasium","2013/14",64,"Eesti keele riigieksam",65.8,68
+"115",115,"Tallinna <dc>hisg<fc>mnaasium","2013/14",38,"Kitsa matemaatika riigieksam",39.7,38
+"116",116,"Tallinna <dc>hisg<fc>mnaasium","2013/14",26,"Laia matemaatika riigieksam",50.9,47
+"117",117,"Vanalinna Hariduskolleegium","2013/14",91,"Eesti keele riigieksam",68,70
+"118",118,"Vanalinna Hariduskolleegium","2013/14",39,"Kitsa matemaatika riigieksam",48.3,41
+"119",119,"Vanalinna Hariduskolleegium","2013/14",51,"Laia matemaatika riigieksam",68.3,73
+"120",120,"Ehte Humanitaarg<fc>mnaasium","2014/15",50,"Eesti keel teise keelena riigieksam",65.3,64
+"121",121,"Ehte Humanitaarg<fc>mnaasium","2014/15",34,"Kitsa matemaatika riigieksam",38.5,35
+"122",122,"Ehte Humanitaarg<fc>mnaasium","2014/15",17,"Laia matemaatika riigieksam",49.5,48
+"123",123,"Gustav Adolfi G<fc>mnaasium","2014/15",131,"Eesti keele riigieksam",75,77
+"124",124,"Gustav Adolfi G<fc>mnaasium","2014/15",15,"Kitsa matemaatika riigieksam",58.1,55
+"125",125,"Gustav Adolfi G<fc>mnaasium","2014/15",115,"Laia matemaatika riigieksam",68.4,70
+"126",126,"Haabersti Vene G<fc>mnaasium","2014/15",38,"Eesti keel teise keelena riigieksam",79,85
+"127",127,"Haabersti Vene G<fc>mnaasium","2014/15",7,"Kitsa matemaatika riigieksam",44.1,41
+"128",128,"Haabersti Vene G<fc>mnaasium","2014/15",23,"Laia matemaatika riigieksam",55.7,58
+"129",129,"Jakob Westholmi G<fc>mnaasium","2014/15",64,"Eesti keele riigieksam",67.6,67
+"130",130,"Jakob Westholmi G<fc>mnaasium","2014/15",15,"Kitsa matemaatika riigieksam",46.4,34
+"131",131,"Jakob Westholmi G<fc>mnaasium","2014/15",48,"Laia matemaatika riigieksam",55.4,56
+"132",132,"Kadrioru Saksa G<fc>mnaasium","2014/15",40,"Eesti keele riigieksam",71.7,72
+"133",133,"Kadrioru Saksa G<fc>mnaasium","2014/15",40,"Laia matemaatika riigieksam",29.6,25
+"134",134,"Lasnam<e4>e G<fc>mnaasium","2014/15",49,"Eesti keel teise keelena riigieksam",68.5,70
+"135",135,"Lasnam<e4>e G<fc>mnaasium","2014/15",29,"Kitsa matemaatika riigieksam",36.9,30
+"136",136,"Lasnam<e4>e G<fc>mnaasium","2014/15",21,"Laia matemaatika riigieksam",53.2,59
+"137",137,"Lasnam<e4>e Vene G<fc>mnaasium","2014/15",41,"Eesti keel teise keelena riigieksam",68.5,73
+"138",138,"Lasnam<e4>e Vene G<fc>mnaasium","2014/15",23,"Kitsa matemaatika riigieksam",32.3,31
+"139",139,"Lasnam<e4>e Vene G<fc>mnaasium","2014/15",21,"Laia matemaatika riigieksam",40.2,34
+"140",140,"Pelgulinna G<fc>mnaasium","2014/15",48,"Eesti keele riigieksam",51,50
+"141",141,"Pelgulinna G<fc>mnaasium","2014/15",11,"Kitsa matemaatika riigieksam",23,17
+"142",142,"Pelgulinna G<fc>mnaasium","2014/15",37,"Laia matemaatika riigieksam",18.6,14
+"143",143,"Pirita Majandusg<fc>mnaasium","2014/15",48,"Eesti keele riigieksam",58.9,56
+"144",144,"Pirita Majandusg<fc>mnaasium","2014/15",17,"Kitsa matemaatika riigieksam",29.6,26
+"145",145,"Pirita Majandusg<fc>mnaasium","2014/15",31,"Laia matemaatika riigieksam",31.4,28
+"146",146,"Tallinna 21. Kool","2014/15",94,"Eesti keele riigieksam",71.6,75
+"147",147,"Tallinna 21. Kool","2014/15",13,"Kitsa matemaatika riigieksam",49.2,49
+"148",148,"Tallinna 21. Kool","2014/15",81,"Laia matemaatika riigieksam",53.3,58
+"149",149,"Tallinna 32. Keskkool","2014/15",114,"Eesti keele riigieksam",61.7,62
+"150",150,"Tallinna 32. Keskkool","2014/15",31,"Kitsa matemaatika riigieksam",32.9,33
+"151",151,"Tallinna 32. Keskkool","2014/15",84,"Laia matemaatika riigieksam",38.2,35
+"152",152,"Tallinna 53. Keskkool","2014/15",24,"Eesti keel teise keelena riigieksam",81.8,86
+"153",153,"Tallinna 53. Keskkool","2014/15",14,"Kitsa matemaatika riigieksam",29.4,27
+"154",154,"Tallinna 53. Keskkool","2014/15",11,"Laia matemaatika riigieksam",60.6,58
+"155",155,"Tallinna Arte G<fc>mnaasium","2014/15",54,"Eesti keele riigieksam",46.7,46
+"156",156,"Tallinna Arte G<fc>mnaasium","2014/15",32,"Kitsa matemaatika riigieksam",26.4,24
+"157",157,"Tallinna Arte G<fc>mnaasium","2014/15",22,"Laia matemaatika riigieksam",36.2,37
+"158",158,"Tallinna Humanitaarg<fc>mnaasium","2014/15",48,"Eesti keel teise keelena riigieksam",91.2,94
+"159",159,"Tallinna Humanitaarg<fc>mnaasium","2014/15",46,"Laia matemaatika riigieksam",49.6,48
+"160",160,"Tallinna Juudi Kool","2014/15",17,"Eesti keel teise keelena riigieksam",81.2,80
+"161",161,"Tallinna Juudi Kool","2014/15",13,"Kitsa matemaatika riigieksam",38.6,35
+"162",162,"Tallinna Juudi Kool","2014/15",5,"Laia matemaatika riigieksam",57.2,48
+"163",163,"Tallinna J<e4>rveotsa G<fc>mnaasium","2014/15",26,"Eesti keele riigieksam",57.1,56
+"164",164,"Tallinna J<e4>rveotsa G<fc>mnaasium","2014/15",9,"Kitsa matemaatika riigieksam",44.9,44
+"165",165,"Tallinna J<e4>rveotsa G<fc>mnaasium","2014/15",17,"Laia matemaatika riigieksam",39.8,29
+"166",166,"Tallinna Kesklinna Vene G<fc>mnaasium","2014/15",45,"Eesti keel teise keelena riigieksam",72.2,77
+"167",167,"Tallinna Kesklinna Vene G<fc>mnaasium","2014/15",21,"Kitsa matemaatika riigieksam",49.5,45
+"168",168,"Tallinna Kesklinna Vene G<fc>mnaasium","2014/15",29,"Laia matemaatika riigieksam",62.6,62
+"169",169,"Tallinna Kristiine G<fc>mnaasium","2014/15",42,"Eesti keele riigieksam",60.3,62
+"170",170,"Tallinna Kristiine G<fc>mnaasium","2014/15",21,"Kitsa matemaatika riigieksam",33.5,26
+"171",171,"Tallinna Kristiine G<fc>mnaasium","2014/15",21,"Laia matemaatika riigieksam",46.3,48
+"172",172,"Tallinna Kunstig<fc>mnaasium","2014/15",27,"Eesti keele riigieksam",53,52
+"173",173,"Tallinna Kunstig<fc>mnaasium","2014/15",17,"Kitsa matemaatika riigieksam",24.5,21
+"174",174,"Tallinna Kunstig<fc>mnaasium","2014/15",10,"Laia matemaatika riigieksam",32.4,22
+"175",175,"Tallinna Kuristiku G<fc>mnaasium","2014/15",42,"Eesti keele riigieksam",59.8,61
+"176",176,"Tallinna Kuristiku G<fc>mnaasium","2014/15",22,"Kitsa matemaatika riigieksam",44.5,44
+"177",177,"Tallinna Kuristiku G<fc>mnaasium","2014/15",21,"Laia matemaatika riigieksam",63.9,60
+"178",178,"Tallinna Laagna G<fc>mnaasium","2014/15",31,"Eesti keele riigieksam",52.2,52
+"179",179,"Tallinna Laagna G<fc>mnaasium","2014/15",22,"Kitsa matemaatika riigieksam",42.2,42
+"180",180,"Tallinna Laagna G<fc>mnaasium","2014/15",12,"Laia matemaatika riigieksam",51.4,52
+"181",181,"Tallinna Lillek<fc>la G<fc>mnaasium","2014/15",64,"Eesti keele riigieksam",67.3,69
+"182",182,"Tallinna Lillek<fc>la G<fc>mnaasium","2014/15",25,"Kitsa matemaatika riigieksam",37,34
+"183",183,"Tallinna Lillek<fc>la G<fc>mnaasium","2014/15",40,"Laia matemaatika riigieksam",51,51
+"184",184,"Tallinna Linnam<e4>e Vene L<fc>tseum","2014/15",44,"Eesti keel teise keelena riigieksam",85.4,89
+"185",185,"Tallinna Linnam<e4>e Vene L<fc>tseum","2014/15",15,"Kitsa matemaatika riigieksam",65.5,62
+"186",186,"Tallinna Linnam<e4>e Vene L<fc>tseum","2014/15",30,"Laia matemaatika riigieksam",66.7,67
+"187",187,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2014/15",45,"Eesti keel teise keelena riigieksam",74.9,82
+"188",188,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2014/15",28,"Kitsa matemaatika riigieksam",40.5,40
+"189",189,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2014/15",17,"Laia matemaatika riigieksam",65.5,69
+"190",190,"Tallinna Mustam<e4>e G<fc>mnaasium","2014/15",41,"Eesti keele riigieksam",69,69
+"191",191,"Tallinna Mustam<e4>e G<fc>mnaasium","2014/15",37,"Laia matemaatika riigieksam",48.1,49
+"192",192,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2014/15",36,"Eesti keel teise keelena riigieksam",90.7,93
+"193",193,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2014/15",19,"Kitsa matemaatika riigieksam",47.1,44
+"194",194,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2014/15",22,"Laia matemaatika riigieksam",52.7,52
+"195",195,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2014/15",45,"Eesti keel teise keelena riigieksam",71,73
+"196",196,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2014/15",18,"Kitsa matemaatika riigieksam",28.7,30
+"197",197,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2014/15",27,"Laia matemaatika riigieksam",46.7,46
+"198",198,"Tallinna Mustj<f5>e G<fc>mnaasium","2014/15",37,"Eesti keel teise keelena riigieksam",64.5,69
+"199",199,"Tallinna Mustj<f5>e G<fc>mnaasium","2014/15",29,"Kitsa matemaatika riigieksam",31.7,27
+"200",200,"Tallinna Mustj<f5>e G<fc>mnaasium","2014/15",8,"Laia matemaatika riigieksam",51.1,34
+"201",201,"Tallinna N<f5>mme G<fc>mnaasium","2014/15",63,"Eesti keele riigieksam",67.6,68
+"202",202,"Tallinna N<f5>mme G<fc>mnaasium","2014/15",17,"Kitsa matemaatika riigieksam",55.1,55
+"203",203,"Tallinna N<f5>mme G<fc>mnaasium","2014/15",46,"Laia matemaatika riigieksam",51,48
+"204",204,"Tallinna Pae G<fc>mnaasium","2014/15",7,"Eesti keel teise keelena riigieksam",83.3,85
+"205",205,"Tallinna Pae G<fc>mnaasium","2014/15",12,"Laia matemaatika riigieksam",56.3,56
+"206",206,"Tallinna Prantsuse L<fc>tseum","2014/15",56,"Eesti keele riigieksam",84.1,86
+"207",207,"Tallinna Prantsuse L<fc>tseum","2014/15",20,"Kitsa matemaatika riigieksam",77.2,80
+"208",208,"Tallinna Prantsuse L<fc>tseum","2014/15",36,"Laia matemaatika riigieksam",77.8,80
+"209",209,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2014/15",35,"Eesti keele riigieksam",51.1,51
+"210",210,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2014/15",22,"Kitsa matemaatika riigieksam",24.3,26
+"211",211,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2014/15",14,"Laia matemaatika riigieksam",34.2,24
+"212",212,"Tallinna Reaalkool","2014/15",107,"Eesti keele riigieksam",79.5,82
+"213",213,"Tallinna Reaalkool","2014/15",106,"Laia matemaatika riigieksam",83.9,87
+"214",214,"Tallinna Saksa G<fc>mnaasium","2014/15",59,"Eesti keele riigieksam",57.2,60
+"215",215,"Tallinna Saksa G<fc>mnaasium","2014/15",17,"Kitsa matemaatika riigieksam",26,25
+"216",216,"Tallinna Saksa G<fc>mnaasium","2014/15",22,"Laia matemaatika riigieksam",23.2,20
+"217",217,"Tallinna S<fc>dalinna Kool","2014/15",11,"Eesti keele riigieksam",55.1,55
+"218",218,"Tallinna S<fc>dalinna Kool","2014/15",7,"Kitsa matemaatika riigieksam",24.9,25
+"219",219,"Tallinna Tehnikag<fc>mnaasium","2014/15",56,"Eesti keele riigieksam",58.3,58
+"220",220,"Tallinna Tehnikag<fc>mnaasium","2014/15",56,"Laia matemaatika riigieksam",35.3,32
+"221",221,"Tallinna T<f5>nism<e4>e Reaalkool","2014/15",26,"Eesti keel teise keelena riigieksam",84.3,87
+"222",222,"Tallinna T<f5>nism<e4>e Reaalkool","2014/15",11,"Kitsa matemaatika riigieksam",66.1,69
+"223",223,"Tallinna T<f5>nism<e4>e Reaalkool","2014/15",20,"Laia matemaatika riigieksam",73.7,76
+"224",224,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2014/15",34,"Eesti keele riigieksam",55.3,60
+"225",225,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2014/15",30,"Laia matemaatika riigieksam",39.3,34
+"226",226,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2014/15",36,"Eesti keel teise keelena riigieksam",84.3,86
+"227",227,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2014/15",11,"Kitsa matemaatika riigieksam",57.1,51
+"228",228,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2014/15",34,"Laia matemaatika riigieksam",53.4,54
+"229",229,"Tallinna <dc>hisg<fc>mnaasium","2014/15",71,"Eesti keele riigieksam",63.4,63
+"230",230,"Tallinna <dc>hisg<fc>mnaasium","2014/15",20,"Kitsa matemaatika riigieksam",48.9,52
+"231",231,"Tallinna <dc>hisg<fc>mnaasium","2014/15",50,"Laia matemaatika riigieksam",41,38
+"232",232,"Vanalinna Hariduskolleegium","2014/15",84,"Eesti keele riigieksam",67.5,70
+"233",233,"Vanalinna Hariduskolleegium","2014/15",20,"Kitsa matemaatika riigieksam",37.4,42
+"234",234,"Vanalinna Hariduskolleegium","2014/15",64,"Laia matemaatika riigieksam",57.8,58
+"235",235,"Ehte Humanitaarg<fc>mnaasium","2015/16",43,"Eesti keel teise keelena riigieksam",72.5,73
+"236",236,"Ehte Humanitaarg<fc>mnaasium","2015/16",17,"Kitsa matemaatika riigieksam",48.1,49
+"237",237,"Ehte Humanitaarg<fc>mnaasium","2015/16",27,"Laia matemaatika riigieksam",54.6,51
+"238",238,"Gustav Adolfi G<fc>mnaasium","2015/16",131,"Eesti keele riigieksam",80.1,81
+"239",239,"Gustav Adolfi G<fc>mnaasium","2015/16",10,"Kitsa matemaatika riigieksam",78.2,82
+"240",240,"Gustav Adolfi G<fc>mnaasium","2015/16",121,"Laia matemaatika riigieksam",73.5,78
+"241",241,"Haabersti Vene G<fc>mnaasium","2015/16",33,"Eesti keel teise keelena riigieksam",69.4,75
+"242",242,"Haabersti Vene G<fc>mnaasium","2015/16",6,"Kitsa matemaatika riigieksam",13.5,13.5
+"243",243,"Haabersti Vene G<fc>mnaasium","2015/16",27,"Laia matemaatika riigieksam",30,22
+"244",244,"Jakob Westholmi G<fc>mnaasium","2015/16",57,"Eesti keele riigieksam",73.5,74
+"245",245,"Jakob Westholmi G<fc>mnaasium","2015/16",29,"Kitsa matemaatika riigieksam",56,53
+"246",246,"Jakob Westholmi G<fc>mnaasium","2015/16",28,"Laia matemaatika riigieksam",70.2,74
+"247",247,"Kadrioru Saksa G<fc>mnaasium","2015/16",59,"Eesti keele riigieksam",66.3,67
+"248",248,"Kadrioru Saksa G<fc>mnaasium","2015/16",10,"Kitsa matemaatika riigieksam",52.4,50
+"249",249,"Kadrioru Saksa G<fc>mnaasium","2015/16",48,"Laia matemaatika riigieksam",49.5,51.5
+"250",250,"Lasnam<e4>e G<fc>mnaasium","2015/16",40,"Eesti keel teise keelena riigieksam",72.5,75.5
+"251",251,"Lasnam<e4>e G<fc>mnaasium","2015/16",13,"Kitsa matemaatika riigieksam",40.4,35
+"252",252,"Lasnam<e4>e G<fc>mnaasium","2015/16",30,"Laia matemaatika riigieksam",48,48.5
+"253",253,"Lasnam<e4>e Vene G<fc>mnaasium","2015/16",35,"Eesti keel teise keelena riigieksam",63.6,62
+"254",254,"Lasnam<e4>e Vene G<fc>mnaasium","2015/16",24,"Kitsa matemaatika riigieksam",41.6,43.5
+"255",255,"Lasnam<e4>e Vene G<fc>mnaasium","2015/16",12,"Laia matemaatika riigieksam",56.8,62
+"256",256,"Pelgulinna G<fc>mnaasium","2015/16",55,"Eesti keele riigieksam",54.4,54
+"257",257,"Pelgulinna G<fc>mnaasium","2015/16",18,"Kitsa matemaatika riigieksam",21.4,18.5
+"258",258,"Pelgulinna G<fc>mnaasium","2015/16",36,"Laia matemaatika riigieksam",28,21.5
+"259",259,"Pirita Majandusg<fc>mnaasium","2015/16",39,"Eesti keele riigieksam",54.6,55
+"260",260,"Pirita Majandusg<fc>mnaasium","2015/16",12,"Kitsa matemaatika riigieksam",36.7,35.5
+"261",261,"Pirita Majandusg<fc>mnaasium","2015/16",27,"Laia matemaatika riigieksam",31.6,28
+"262",262,"Tallinna 21. Kool","2015/16",86,"Eesti keele riigieksam",75.5,76.5
+"263",263,"Tallinna 21. Kool","2015/16",22,"Kitsa matemaatika riigieksam",66.3,70.5
+"264",264,"Tallinna 21. Kool","2015/16",64,"Laia matemaatika riigieksam",68.5,70
+"265",265,"Tallinna 32. Keskkool","2015/16",106,"Eesti keele riigieksam",66.4,68.5
+"266",266,"Tallinna 32. Keskkool","2015/16",28,"Kitsa matemaatika riigieksam",38.8,30
+"267",267,"Tallinna 32. Keskkool","2015/16",77,"Laia matemaatika riigieksam",43.3,43
+"268",268,"Tallinna 53. Keskkool","2015/16",40,"Eesti keel teise keelena riigieksam",73.8,77
+"269",269,"Tallinna 53. Keskkool","2015/16",20,"Kitsa matemaatika riigieksam",35.6,33
+"270",270,"Tallinna 53. Keskkool","2015/16",21,"Laia matemaatika riigieksam",63.5,66
+"271",271,"Tallinna Arte G<fc>mnaasium","2015/16",49,"Eesti keele riigieksam",57.7,61
+"272",272,"Tallinna Arte G<fc>mnaasium","2015/16",26,"Kitsa matemaatika riigieksam",36.1,32
+"273",273,"Tallinna Arte G<fc>mnaasium","2015/16",23,"Laia matemaatika riigieksam",51.3,49
+"274",274,"Tallinna Humanitaarg<fc>mnaasium","2015/16",38,"Eesti keel teise keelena riigieksam",90.1,92
+"275",275,"Tallinna Humanitaarg<fc>mnaasium","2015/16",7,"Kitsa matemaatika riigieksam",55.6,59
+"276",276,"Tallinna Humanitaarg<fc>mnaasium","2015/16",36,"Laia matemaatika riigieksam",53.2,56
+"277",277,"Tallinna Juudi Kool","2015/16",13,"Eesti keel teise keelena riigieksam",83.2,83
+"278",278,"Tallinna Juudi Kool","2015/16",10,"Kitsa matemaatika riigieksam",53.3,50.5
+"279",279,"Tallinna J<e4>rveotsa G<fc>mnaasium","2015/16",32,"Eesti keele riigieksam",54.7,50.5
+"280",280,"Tallinna J<e4>rveotsa G<fc>mnaasium","2015/16",17,"Kitsa matemaatika riigieksam",31.6,28
+"281",281,"Tallinna J<e4>rveotsa G<fc>mnaasium","2015/16",15,"Laia matemaatika riigieksam",48,51
+"282",282,"Tallinna Kesklinna Vene G<fc>mnaasium","2015/16",42,"Eesti keel teise keelena riigieksam",78,80
+"283",283,"Tallinna Kesklinna Vene G<fc>mnaasium","2015/16",29,"Kitsa matemaatika riigieksam",57.1,55
+"284",284,"Tallinna Kesklinna Vene G<fc>mnaasium","2015/16",22,"Laia matemaatika riigieksam",76.3,83.5
+"285",285,"Tallinna Kristiine G<fc>mnaasium","2015/16",32,"Eesti keele riigieksam",68.8,69.5
+"286",286,"Tallinna Kristiine G<fc>mnaasium","2015/16",17,"Kitsa matemaatika riigieksam",62.6,69
+"287",287,"Tallinna Kristiine G<fc>mnaasium","2015/16",15,"Laia matemaatika riigieksam",76.4,78
+"288",288,"Tallinna Kunstig<fc>mnaasium","2015/16",21,"Eesti keele riigieksam",58.5,63
+"289",289,"Tallinna Kunstig<fc>mnaasium","2015/16",11,"Kitsa matemaatika riigieksam",17,17
+"290",290,"Tallinna Kunstig<fc>mnaasium","2015/16",10,"Laia matemaatika riigieksam",20.6,16
+"291",291,"Tallinna Kuristiku G<fc>mnaasium","2015/16",34,"Eesti keele riigieksam",57.4,57
+"292",292,"Tallinna Kuristiku G<fc>mnaasium","2015/16",15,"Kitsa matemaatika riigieksam",40.5,37
+"293",293,"Tallinna Kuristiku G<fc>mnaasium","2015/16",19,"Laia matemaatika riigieksam",64.8,72
+"294",294,"Tallinna Laagna G<fc>mnaasium","2015/16",32,"Eesti keele riigieksam",46.4,43.5
+"295",295,"Tallinna Laagna G<fc>mnaasium","2015/16",17,"Kitsa matemaatika riigieksam",35.9,38
+"296",296,"Tallinna Laagna G<fc>mnaasium","2015/16",15,"Laia matemaatika riigieksam",39.1,30
+"297",297,"Tallinna Lillek<fc>la G<fc>mnaasium","2015/16",82,"Eesti keele riigieksam",65.5,65
+"298",298,"Tallinna Lillek<fc>la G<fc>mnaasium","2015/16",28,"Kitsa matemaatika riigieksam",37.9,35.5
+"299",299,"Tallinna Lillek<fc>la G<fc>mnaasium","2015/16",53,"Laia matemaatika riigieksam",49.7,54
+"300",300,"Tallinna Linnam<e4>e Vene L<fc>tseum","2015/16",48,"Eesti keel teise keelena riigieksam",83.8,86
+"301",301,"Tallinna Linnam<e4>e Vene L<fc>tseum","2015/16",17,"Kitsa matemaatika riigieksam",67.9,79
+"302",302,"Tallinna Linnam<e4>e Vene L<fc>tseum","2015/16",33,"Laia matemaatika riigieksam",72.7,71
+"303",303,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2015/16",33,"Eesti keel teise keelena riigieksam",83.5,90
+"304",304,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2015/16",20,"Kitsa matemaatika riigieksam",63.2,62
+"305",305,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2015/16",14,"Laia matemaatika riigieksam",79.6,83.5
+"306",306,"Tallinna Mustam<e4>e G<fc>mnaasium","2015/16",46,"Eesti keele riigieksam",72.5,72
+"307",307,"Tallinna Mustam<e4>e G<fc>mnaasium","2015/16",16,"Kitsa matemaatika riigieksam",32.4,31
+"308",308,"Tallinna Mustam<e4>e G<fc>mnaasium","2015/16",30,"Laia matemaatika riigieksam",55.5,54.5
+"309",309,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2015/16",23,"Eesti keel teise keelena riigieksam",87,90
+"310",310,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2015/16",20,"Kitsa matemaatika riigieksam",55.2,57.5
+"311",311,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2015/16",12,"Laia matemaatika riigieksam",57.8,50
+"312",312,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2015/16",37,"Eesti keel teise keelena riigieksam",67.2,70
+"313",313,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2015/16",8,"Kitsa matemaatika riigieksam",23.5,15
+"314",314,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2015/16",29,"Laia matemaatika riigieksam",40.2,36
+"315",315,"Tallinna Mustj<f5>e G<fc>mnaasium","2015/16",12,"Eesti keel teise keelena riigieksam",60.7,59.5
+"316",316,"Tallinna Mustj<f5>e G<fc>mnaasium","2015/16",7,"Kitsa matemaatika riigieksam",41.3,51
+"317",317,"Tallinna Mustj<f5>e G<fc>mnaasium","2015/16",5,"Laia matemaatika riigieksam",66,75
+"318",318,"Tallinna N<f5>mme G<fc>mnaasium","2015/16",74,"Eesti keele riigieksam",60.8,60
+"319",319,"Tallinna N<f5>mme G<fc>mnaasium","2015/16",26,"Kitsa matemaatika riigieksam",41.5,37.5
+"320",320,"Tallinna N<f5>mme G<fc>mnaasium","2015/16",48,"Laia matemaatika riigieksam",55.8,53.5
+"321",321,"Tallinna Pae G<fc>mnaasium","2015/16",25,"Eesti keel teise keelena riigieksam",76.1,77
+"322",322,"Tallinna Pae G<fc>mnaasium","2015/16",20,"Kitsa matemaatika riigieksam",50.6,41
+"323",323,"Tallinna Pae G<fc>mnaasium","2015/16",7,"Laia matemaatika riigieksam",80.4,78
+"324",324,"Tallinna Prantsuse L<fc>tseum","2015/16",51,"Eesti keele riigieksam",79.7,82
+"325",325,"Tallinna Prantsuse L<fc>tseum","2015/16",15,"Kitsa matemaatika riigieksam",90.3,91
+"326",326,"Tallinna Prantsuse L<fc>tseum","2015/16",36,"Laia matemaatika riigieksam",85.3,88
+"327",327,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2015/16",32,"Eesti keele riigieksam",49.6,47
+"328",328,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2015/16",20,"Kitsa matemaatika riigieksam",22.1,17
+"329",329,"Tallinna P<e4><e4>sk<fc>la G<fc>mnaasium","2015/16",12,"Laia matemaatika riigieksam",22.2,18
+"330",330,"Tallinna Reaalkool","2015/16",105,"Eesti keele riigieksam",79,80
+"331",331,"Tallinna Reaalkool","2015/16",106,"Laia matemaatika riigieksam",88.1,90
+"332",332,"Tallinna Saksa G<fc>mnaasium","2015/16",60,"Eesti keele riigieksam",69.9,72
+"333",333,"Tallinna Saksa G<fc>mnaasium","2015/16",15,"Kitsa matemaatika riigieksam",34.2,22
+"334",334,"Tallinna Saksa G<fc>mnaasium","2015/16",22,"Laia matemaatika riigieksam",33.4,29.5
+"335",335,"Tallinna Tehnikag<fc>mnaasium","2015/16",56,"Eesti keele riigieksam",58,56.5
+"336",336,"Tallinna Tehnikag<fc>mnaasium","2015/16",56,"Laia matemaatika riigieksam",38.4,35.5
+"337",337,"Tallinna T<f5>nism<e4>e Reaalkool","2015/16",43,"Eesti keel teise keelena riigieksam",82,84
+"338",338,"Tallinna T<f5>nism<e4>e Reaalkool","2015/16",20,"Kitsa matemaatika riigieksam",50.6,49.5
+"339",339,"Tallinna T<f5>nism<e4>e Reaalkool","2015/16",28,"Laia matemaatika riigieksam",72.8,79.5
+"340",340,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2015/16",40,"Eesti keele riigieksam",63.1,63
+"341",341,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2015/16",9,"Kitsa matemaatika riigieksam",45.4,46
+"342",342,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2015/16",31,"Laia matemaatika riigieksam",44.3,40
+"343",343,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2015/16",46,"Eesti keel teise keelena riigieksam",79.9,84
+"344",344,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2015/16",14,"Kitsa matemaatika riigieksam",56,54
+"345",345,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2015/16",38,"Laia matemaatika riigieksam",58.3,52.5
+"346",346,"Tallinna <dc>hisg<fc>mnaasium","2015/16",83,"Eesti keele riigieksam",69.8,70
+"347",347,"Tallinna <dc>hisg<fc>mnaasium","2015/16",41,"Kitsa matemaatika riigieksam",58.6,62
+"348",348,"Tallinna <dc>hisg<fc>mnaasium","2015/16",42,"Laia matemaatika riigieksam",65.2,66
+"349",349,"Vanalinna Hariduskolleegium","2015/16",91,"Eesti keele riigieksam",70.7,72
+"350",350,"Vanalinna Hariduskolleegium","2015/16",26,"Kitsa matemaatika riigieksam",39.5,38
+"351",351,"Vanalinna Hariduskolleegium","2015/16",66,"Laia matemaatika riigieksam",55.7,57.5
+"352",352,"Ehte Humanitaarg<fc>mnaasium","2016/17",26,"Eesti keel teise keelena riigieksam",76.3,82.5
+"353",353,"Ehte Humanitaarg<fc>mnaasium","2016/17",10,"Kitsa matemaatika riigieksam",49.4,39.5
+"354",354,"Ehte Humanitaarg<fc>mnaasium","2016/17",18,"Laia matemaatika riigieksam",58.1,60
+"355",355,"Gustav Adolfi G<fc>mnaasium","2016/17",125,"Eesti keele riigieksam",77.9,78
+"356",356,"Gustav Adolfi G<fc>mnaasium","2016/17",21,"Kitsa matemaatika riigieksam",73.1,75
+"357",357,"Gustav Adolfi G<fc>mnaasium","2016/17",104,"Laia matemaatika riigieksam",65.6,70.5
+"358",358,"Haabersti Vene G<fc>mnaasium","2016/17",36,"Eesti keel teise keelena riigieksam",54.5,54
+"359",359,"Haabersti Vene G<fc>mnaasium","2016/17",7,"Kitsa matemaatika riigieksam",28,19
+"360",360,"Haabersti Vene G<fc>mnaasium","2016/17",29,"Laia matemaatika riigieksam",15.2,7
+"361",361,"Jakob Westholmi G<fc>mnaasium","2016/17",61,"Eesti keele riigieksam",69.9,71
+"362",362,"Jakob Westholmi G<fc>mnaasium","2016/17",41,"Kitsa matemaatika riigieksam",64.9,66
+"363",363,"Jakob Westholmi G<fc>mnaasium","2016/17",20,"Laia matemaatika riigieksam",66.3,73
+"364",364,"Kadrioru Saksa G<fc>mnaasium","2016/17",52,"Eesti keele riigieksam",69.1,72
+"365",365,"Kadrioru Saksa G<fc>mnaasium","2016/17",5,"Kitsa matemaatika riigieksam",65.8,67
+"366",366,"Kadrioru Saksa G<fc>mnaasium","2016/17",47,"Laia matemaatika riigieksam",58.6,58
+"367",367,"Lasnam<e4>e G<fc>mnaasium","2016/17",34,"Eesti keel teise keelena riigieksam",75.2,74
+"368",368,"Lasnam<e4>e G<fc>mnaasium","2016/17",23,"Kitsa matemaatika riigieksam",38.1,30
+"369",369,"Lasnam<e4>e G<fc>mnaasium","2016/17",11,"Laia matemaatika riigieksam",57.8,58
+"370",370,"Lasnam<e4>e Vene G<fc>mnaasium","2016/17",39,"Eesti keel teise keelena riigieksam",62.3,63
+"371",371,"Lasnam<e4>e Vene G<fc>mnaasium","2016/17",33,"Kitsa matemaatika riigieksam",38.8,33
+"372",372,"Lasnam<e4>e Vene G<fc>mnaasium","2016/17",6,"Laia matemaatika riigieksam",51.7,48
+"373",373,"Pelgulinna G<fc>mnaasium","2016/17",47,"Eesti keele riigieksam",52.5,51
+"374",374,"Pelgulinna G<fc>mnaasium","2016/17",15,"Kitsa matemaatika riigieksam",16.1,17
+"375",375,"Pelgulinna G<fc>mnaasium","2016/17",31,"Laia matemaatika riigieksam",21.2,11
+"376",376,"Pirita Majandusg<fc>mnaasium","2016/17",39,"Eesti keele riigieksam",56.6,58
+"377",377,"Pirita Majandusg<fc>mnaasium","2016/17",8,"Kitsa matemaatika riigieksam",39.6,33
+"378",378,"Pirita Majandusg<fc>mnaasium","2016/17",31,"Laia matemaatika riigieksam",25.7,19
+"379",379,"Tallinna 21. Kool","2016/17",98,"Eesti keele riigieksam",76.2,76.5
+"380",380,"Tallinna 21. Kool","2016/17",47,"Kitsa matemaatika riigieksam",62,60
+"381",381,"Tallinna 21. Kool","2016/17",51,"Laia matemaatika riigieksam",71.5,74
+"382",382,"Tallinna 32. Keskkool","2016/17",114,"Eesti keele riigieksam",65.5,67
+"383",383,"Tallinna 32. Keskkool","2016/17",42,"Kitsa matemaatika riigieksam",37.5,34
+"384",384,"Tallinna 32. Keskkool","2016/17",71,"Laia matemaatika riigieksam",43.9,44
+"385",385,"Tallinna 53. Keskkool","2016/17",35,"Eesti keel teise keelena riigieksam",71.3,74
+"386",386,"Tallinna 53. Keskkool","2016/17",17,"Kitsa matemaatika riigieksam",21.8,18
+"387",387,"Tallinna 53. Keskkool","2016/17",18,"Laia matemaatika riigieksam",47.2,44.5
+"388",388,"Tallinna Arte G<fc>mnaasium","2016/17",47,"Eesti keele riigieksam",56.2,61
+"389",389,"Tallinna Arte G<fc>mnaasium","2016/17",26,"Kitsa matemaatika riigieksam",31.2,27
+"390",390,"Tallinna Arte G<fc>mnaasium","2016/17",24,"Laia matemaatika riigieksam",46.2,53
+"391",391,"Tallinna Humanitaarg<fc>mnaasium","2016/17",44,"Eesti keel teise keelena riigieksam",92.4,94
+"392",392,"Tallinna Humanitaarg<fc>mnaasium","2016/17",20,"Kitsa matemaatika riigieksam",55.4,53.5
+"393",393,"Tallinna Humanitaarg<fc>mnaasium","2016/17",25,"Laia matemaatika riigieksam",69.4,68
+"394",394,"Tallinna Juudi Kool","2016/17",15,"Eesti keel teise keelena riigieksam",79.5,88
+"395",395,"Tallinna Juudi Kool","2016/17",9,"Kitsa matemaatika riigieksam",43.4,46
+"396",396,"Tallinna Juudi Kool","2016/17",6,"Laia matemaatika riigieksam",76.3,78.5
+"397",397,"Tallinna J<e4>rveotsa G<fc>mnaasium","2016/17",26,"Eesti keele riigieksam",56.3,51
+"398",398,"Tallinna J<e4>rveotsa G<fc>mnaasium","2016/17",17,"Kitsa matemaatika riigieksam",34.5,24
+"399",399,"Tallinna J<e4>rveotsa G<fc>mnaasium","2016/17",9,"Laia matemaatika riigieksam",33,40
+"400",400,"Tallinna Kesklinna Vene G<fc>mnaasium","2016/17",45,"Eesti keel teise keelena riigieksam",72.1,77
+"401",401,"Tallinna Kesklinna Vene G<fc>mnaasium","2016/17",38,"Kitsa matemaatika riigieksam",56,62
+"402",402,"Tallinna Kesklinna Vene G<fc>mnaasium","2016/17",9,"Laia matemaatika riigieksam",87.9,91
+"403",403,"Tallinna Kristiine G<fc>mnaasium","2016/17",34,"Eesti keele riigieksam",56.7,60
+"404",404,"Tallinna Kristiine G<fc>mnaasium","2016/17",15,"Kitsa matemaatika riigieksam",41.3,44
+"405",405,"Tallinna Kristiine G<fc>mnaasium","2016/17",19,"Laia matemaatika riigieksam",40,41
+"406",406,"Tallinna Kunstig<fc>mnaasium","2016/17",20,"Eesti keele riigieksam",45,41.5
+"407",407,"Tallinna Kunstig<fc>mnaasium","2016/17",10,"Kitsa matemaatika riigieksam",31.2,22.5
+"408",408,"Tallinna Kunstig<fc>mnaasium","2016/17",10,"Laia matemaatika riigieksam",10.1,5
+"409",409,"Tallinna Kuristiku G<fc>mnaasium","2016/17",28,"Eesti keele riigieksam",58.2,56.5
+"410",410,"Tallinna Kuristiku G<fc>mnaasium","2016/17",19,"Kitsa matemaatika riigieksam",42.8,41
+"411",411,"Tallinna Kuristiku G<fc>mnaasium","2016/17",9,"Laia matemaatika riigieksam",72.8,78
+"412",412,"Tallinna Laagna G<fc>mnaasium","2016/17",42,"Eesti keele riigieksam",58.3,56.5
+"413",413,"Tallinna Laagna G<fc>mnaasium","2016/17",26,"Kitsa matemaatika riigieksam",49.6,47.5
+"414",414,"Tallinna Laagna G<fc>mnaasium","2016/17",16,"Laia matemaatika riigieksam",59.8,53.5
+"415",415,"Tallinna Lillek<fc>la G<fc>mnaasium","2016/17",62,"Eesti keele riigieksam",64.5,65
+"416",416,"Tallinna Lillek<fc>la G<fc>mnaasium","2016/17",15,"Kitsa matemaatika riigieksam",42.9,41
+"417",417,"Tallinna Lillek<fc>la G<fc>mnaasium","2016/17",47,"Laia matemaatika riigieksam",50,49
+"418",418,"Tallinna Linnam<e4>e Vene L<fc>tseum","2016/17",39,"Eesti keel teise keelena riigieksam",85.7,86
+"419",419,"Tallinna Linnam<e4>e Vene L<fc>tseum","2016/17",19,"Kitsa matemaatika riigieksam",65.2,62
+"420",420,"Tallinna Linnam<e4>e Vene L<fc>tseum","2016/17",21,"Laia matemaatika riigieksam",70.7,74
+"421",421,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2016/17",36,"Eesti keel teise keelena riigieksam",86,91.5
+"422",422,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2016/17",21,"Kitsa matemaatika riigieksam",44,44
+"423",423,"Tallinna L<e4><e4>nemere G<fc>mnaasium","2016/17",15,"Laia matemaatika riigieksam",78.7,80
+"424",424,"Tallinna Mustam<e4>e G<fc>mnaasium","2016/17",58,"Eesti keele riigieksam",61.4,61.5
+"425",425,"Tallinna Mustam<e4>e G<fc>mnaasium","2016/17",12,"Kitsa matemaatika riigieksam",43.1,38.5
+"426",426,"Tallinna Mustam<e4>e G<fc>mnaasium","2016/17",46,"Laia matemaatika riigieksam",36.6,35
+"427",427,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2016/17",38,"Eesti keel teise keelena riigieksam",90.8,92.5
+"428",428,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2016/17",22,"Kitsa matemaatika riigieksam",42.4,38
+"429",429,"Tallinna Mustam<e4>e Humanitaarg<fc>mnaasium","2016/17",23,"Laia matemaatika riigieksam",60.8,69
+"430",430,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2016/17",20,"Eesti keel teise keelena riigieksam",66.6,69.5
+"431",431,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2016/17",10,"Kitsa matemaatika riigieksam",41.9,42.5
+"432",432,"Tallinna Mustam<e4>e Reaalg<fc>mnaasium","2016/17",11,"Laia matemaatika riigieksam",34.6,35
+"433",433,"Tallinna Mustj<f5>e G<fc>mnaasium","2016/17",27,"Eesti keel teise keelena riigieksam",62.8,65
+"434",434,"Tallinna Mustj<f5>e G<fc>mnaasium","2016/17",23,"Kitsa matemaatika riigieksam",27.6,23
+"435",435,"Tallinna N<f5>mme G<fc>mnaasium","2016/17",67,"Eesti keele riigieksam",62.6,63
+"436",436,"Tallinna N<f5>mme G<fc>mnaasium","2016/17",17,"Kitsa matemaatika riigieksam",43,40
+"437",437,"Tallinna N<f5>mme G<fc>mnaasium","2016/17",50,"Laia matemaatika riigieksam",60.5,61
+"438",438,"Tallinna Pae G<fc>mnaasium","2016/17",31,"Eesti keel teise keelena riigieksam",77.9,84
+"439",439,"Tallinna Pae G<fc>mnaasium","2016/17",25,"Kitsa matemaatika riigieksam",51.1,51
+"440",440,"Tallinna Pae G<fc>mnaasium","2016/17",7,"Laia matemaatika riigieksam",54.7,58
+"441",441,"Tallinna Prantsuse L<fc>tseum","2016/17",50,"Eesti keele riigieksam",81,84
+"442",442,"Tallinna Prantsuse L<fc>tseum","2016/17",19,"Kitsa matemaatika riigieksam",80.3,83
+"443",443,"Tallinna Prantsuse L<fc>tseum","2016/17",32,"Laia matemaatika riigieksam",83.9,87
+"444",444,"Tallinna Reaalkool","2016/17",106,"Eesti keele riigieksam",83.7,85
+"445",445,"Tallinna Reaalkool","2016/17",106,"Laia matemaatika riigieksam",89.3,91
+"446",446,"Tallinna Saksa G<fc>mnaasium","2016/17",68,"Eesti keele riigieksam",65.6,66.5
+"447",447,"Tallinna Saksa G<fc>mnaasium","2016/17",14,"Kitsa matemaatika riigieksam",30.8,26
+"448",448,"Tallinna Saksa G<fc>mnaasium","2016/17",31,"Laia matemaatika riigieksam",27.3,18
+"449",449,"Tallinna Tehnikag<fc>mnaasium","2016/17",49,"Eesti keele riigieksam",59.7,60
+"450",450,"Tallinna Tehnikag<fc>mnaasium","2016/17",47,"Laia matemaatika riigieksam",28.7,26
+"451",451,"Tallinna T<f5>nism<e4>e Reaalkool","2016/17",52,"Eesti keel teise keelena riigieksam",85.6,88.5
+"452",452,"Tallinna T<f5>nism<e4>e Reaalkool","2016/17",25,"Kitsa matemaatika riigieksam",63,66
+"453",453,"Tallinna T<f5>nism<e4>e Reaalkool","2016/17",27,"Laia matemaatika riigieksam",62.1,66
+"454",454,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2016/17",37,"Eesti keele riigieksam",62.1,61
+"455",455,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2016/17",15,"Kitsa matemaatika riigieksam",31.9,34
+"456",456,"Tallinna <d5>ism<e4>e G<fc>mnaasium","2016/17",23,"Laia matemaatika riigieksam",54.4,54
+"457",457,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2016/17",51,"Eesti keel teise keelena riigieksam",84.4,88
+"458",458,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2016/17",20,"Kitsa matemaatika riigieksam",44,41.5
+"459",459,"Tallinna <d5>ism<e4>e Vene L<fc>tseum","2016/17",31,"Laia matemaatika riigieksam",42.3,39
+"460",460,"Tallinna <dc>hisg<fc>mnaasium","2016/17",71,"Eesti keele riigieksam",62.5,63
+"461",461,"Tallinna <dc>hisg<fc>mnaasium","2016/17",36,"Kitsa matemaatika riigieksam",31.4,28.5
+"462",462,"Tallinna <dc>hisg<fc>mnaasium","2016/17",35,"Laia matemaatika riigieksam",45.4,44
+"463",463,"Vanalinna Hariduskolleegium","2016/17",96,"Eesti keele riigieksam",70.1,70.5
+"464",464,"Vanalinna Hariduskolleegium","2016/17",18,"Kitsa matemaatika riigieksam",41.3,40.5
+"465",465,"Vanalinna Hariduskolleegium","2016/17",79,"Laia matemaatika riigieksam",52.2,54

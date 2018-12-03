@@ -1,0 +1,466 @@
+,schoolTestScores.school.or.criterion,schoolTestScores.school.year,schoolTestScores.N,schoolTestScores.exam,schoolTestScores.Mean,schoolTestScores.Median
+1,Ehte Humanitaargümnaasium,2013/14,36,Eesti keel teise keelena riigieksam,70.6,72
+2,Ehte Humanitaargümnaasium,2013/14,26,Kitsa matemaatika riigieksam,27.8,22
+3,Ehte Humanitaargümnaasium,2013/14,10,Laia matemaatika riigieksam,72.1,73
+4,Gustav Adolfi Gümnaasium,2013/14,125,Eesti keele riigieksam,78.7,79
+5,Gustav Adolfi Gümnaasium,2013/14,34,Kitsa matemaatika riigieksam,51.9,52
+6,Gustav Adolfi Gümnaasium,2013/14,91,Laia matemaatika riigieksam,73.2,78
+7,Haabersti Vene Gümnaasium,2013/14,29,Eesti keel teise keelena riigieksam,76.8,82
+8,Haabersti Vene Gümnaasium,2013/14,16,Kitsa matemaatika riigieksam,24.9,22
+9,Haabersti Vene Gümnaasium,2013/14,13,Laia matemaatika riigieksam,45.2,46
+10,Jakob Westholmi Gümnaasium,2013/14,61,Eesti keele riigieksam,69.7,69
+11,Jakob Westholmi Gümnaasium,2013/14,35,Kitsa matemaatika riigieksam,45.6,40
+12,Jakob Westholmi Gümnaasium,2013/14,26,Laia matemaatika riigieksam,71,72
+13,Kadrioru Saksa Gümnaasium,2013/14,70,Eesti keele riigieksam,64.5,66
+14,Kadrioru Saksa Gümnaasium,2013/14,28,Kitsa matemaatika riigieksam,28.3,26
+15,Kadrioru Saksa Gümnaasium,2013/14,41,Laia matemaatika riigieksam,47.9,49
+16,Lasnamäe Gümnaasium,2013/14,55,Eesti keel teise keelena riigieksam,75.4,79
+17,Lasnamäe Gümnaasium,2013/14,43,Kitsa matemaatika riigieksam,28.5,23
+18,Lasnamäe Gümnaasium,2013/14,12,Laia matemaatika riigieksam,66.9,74
+19,Lasnamäe Vene Gümnaasium,2013/14,34,Eesti keel teise keelena riigieksam,73.1,80
+20,Lasnamäe Vene Gümnaasium,2013/14,26,Kitsa matemaatika riigieksam,21.6,18
+21,Lasnamäe Vene Gümnaasium,2013/14,9,Laia matemaatika riigieksam,36,30
+22,Pelgulinna Gümnaasium,2013/14,49,Eesti keele riigieksam,56.3,55
+23,Pelgulinna Gümnaasium,2013/14,20,Kitsa matemaatika riigieksam,15.6,16
+24,Pelgulinna Gümnaasium,2013/14,29,Laia matemaatika riigieksam,28.4,26
+25,Pirita Majandusgümnaasium,2013/14,40,Eesti keele riigieksam,52.5,50
+26,Pirita Majandusgümnaasium,2013/14,19,Kitsa matemaatika riigieksam,33.5,32
+27,Pirita Majandusgümnaasium,2013/14,21,Laia matemaatika riigieksam,49.6,50
+28,Tallinna 21. Kool,2013/14,96,Eesti keele riigieksam,73.8,76
+29,Tallinna 21. Kool,2013/14,26,Kitsa matemaatika riigieksam,41.8,40
+30,Tallinna 21. Kool,2013/14,70,Laia matemaatika riigieksam,59.9,60
+31,Tallinna 32. Keskkool,2013/14,110,Eesti keele riigieksam,62.7,65
+32,Tallinna 32. Keskkool,2013/14,53,Kitsa matemaatika riigieksam,25.5,23
+33,Tallinna 32. Keskkool,2013/14,57,Laia matemaatika riigieksam,35.5,31
+34,Tallinna 53. Keskkool,2013/14,42,Eesti keel teise keelena riigieksam,64.8,69
+35,Tallinna 53. Keskkool,2013/14,27,Kitsa matemaatika riigieksam,40,39
+36,Tallinna 53. Keskkool,2013/14,16,Laia matemaatika riigieksam,75.8,82
+37,Tallinna Arte Gümnaasium,2013/14,61,Eesti keele riigieksam,65.3,68
+38,Tallinna Arte Gümnaasium,2013/14,26,Kitsa matemaatika riigieksam,21.7,20
+39,Tallinna Arte Gümnaasium,2013/14,35,Laia matemaatika riigieksam,41,40
+40,Tallinna Humanitaargümnaasium,2013/14,37,Eesti keel teise keelena riigieksam,85.3,91
+41,Tallinna Humanitaargümnaasium,2013/14,11,Kitsa matemaatika riigieksam,41,37
+42,Tallinna Humanitaargümnaasium,2013/14,30,Laia matemaatika riigieksam,53.9,54
+43,Tallinna Juudi Kool,2013/14,12,Eesti keel teise keelena riigieksam,68,65
+44,Tallinna Juudi Kool,2013/14,6,Kitsa matemaatika riigieksam,33.5,36
+45,Tallinna Juudi Kool,2013/14,6,Laia matemaatika riigieksam,56.7,56
+46,Tallinna Järveotsa Gümnaasium,2013/14,29,Eesti keele riigieksam,66.9,67
+47,Tallinna Järveotsa Gümnaasium,2013/14,7,Kitsa matemaatika riigieksam,19.3,22
+48,Tallinna Järveotsa Gümnaasium,2013/14,22,Laia matemaatika riigieksam,39.9,38
+49,Tallinna Kesklinna Vene Gümnaasium,2013/14,26,Eesti keel teise keelena riigieksam,67.9,68
+50,Tallinna Kesklinna Vene Gümnaasium,2013/14,20,Kitsa matemaatika riigieksam,30.1,27
+51,Tallinna Kesklinna Vene Gümnaasium,2013/14,11,Laia matemaatika riigieksam,66.5,72
+52,Tallinna Kristiine Gümnaasium,2013/14,22,Eesti keele riigieksam,56,56
+53,Tallinna Kristiine Gümnaasium,2013/14,11,Kitsa matemaatika riigieksam,27.8,25
+54,Tallinna Kristiine Gümnaasium,2013/14,11,Laia matemaatika riigieksam,44.4,45
+55,Tallinna Kunstigümnaasium,2013/14,21,Eesti keele riigieksam,61.1,63
+56,Tallinna Kunstigümnaasium,2013/14,18,Kitsa matemaatika riigieksam,18.6,18
+57,Tallinna Kuristiku Gümnaasium,2013/14,41,Eesti keele riigieksam,54.3,53
+58,Tallinna Kuristiku Gümnaasium,2013/14,27,Kitsa matemaatika riigieksam,39.1,35
+59,Tallinna Kuristiku Gümnaasium,2013/14,14,Laia matemaatika riigieksam,67.9,74
+60,Tallinna Laagna Gümnaasium,2013/14,28,Eesti keele riigieksam,59.1,65
+61,Tallinna Laagna Gümnaasium,2013/14,18,Kitsa matemaatika riigieksam,37.8,38
+62,Tallinna Laagna Gümnaasium,2013/14,10,Laia matemaatika riigieksam,76.2,76
+63,Tallinna Lilleküla Gümnaasium,2013/14,64,Eesti keele riigieksam,65.3,67
+64,Tallinna Lilleküla Gümnaasium,2013/14,22,Kitsa matemaatika riigieksam,30.9,24
+65,Tallinna Lilleküla Gümnaasium,2013/14,42,Laia matemaatika riigieksam,46.5,42
+66,Tallinna Linnamäe Vene Lütseum,2013/14,46,Eesti keel teise keelena riigieksam,71.4,69
+67,Tallinna Linnamäe Vene Lütseum,2013/14,18,Kitsa matemaatika riigieksam,47.4,44
+68,Tallinna Linnamäe Vene Lütseum,2013/14,29,Laia matemaatika riigieksam,66.8,70
+69,Tallinna Läänemere Gümnaasium,2013/14,50,Eesti keel teise keelena riigieksam,76.2,84
+70,Tallinna Läänemere Gümnaasium,2013/14,38,Kitsa matemaatika riigieksam,27.7,24
+71,Tallinna Läänemere Gümnaasium,2013/14,12,Laia matemaatika riigieksam,70.9,71
+72,Tallinna Mustamäe Gümnaasium,2013/14,47,Eesti keele riigieksam,62.5,62
+73,Tallinna Mustamäe Gümnaasium,2013/14,7,Kitsa matemaatika riigieksam,21.6,21
+74,Tallinna Mustamäe Gümnaasium,2013/14,40,Laia matemaatika riigieksam,41.2,40
+75,Tallinna Mustamäe Humanitaargümnaasium,2013/14,29,Eesti keel teise keelena riigieksam,86.8,92
+76,Tallinna Mustamäe Humanitaargümnaasium,2013/14,23,Kitsa matemaatika riigieksam,40.3,35
+77,Tallinna Mustamäe Humanitaargümnaasium,2013/14,10,Laia matemaatika riigieksam,64.8,69
+78,Tallinna Mustamäe Reaalgümnaasium,2013/14,23,Eesti keel teise keelena riigieksam,66.6,66
+79,Tallinna Mustamäe Reaalgümnaasium,2013/14,7,Kitsa matemaatika riigieksam,14.7,9
+80,Tallinna Mustamäe Reaalgümnaasium,2013/14,16,Laia matemaatika riigieksam,31.7,29
+81,Tallinna Mustjõe Gümnaasium,2013/14,54,Eesti keel teise keelena riigieksam,66.5,70
+82,Tallinna Mustjõe Gümnaasium,2013/14,44,Kitsa matemaatika riigieksam,28.1,22
+83,Tallinna Mustjõe Gümnaasium,2013/14,10,Laia matemaatika riigieksam,59.5,60
+84,Tallinna Nõmme Gümnaasium,2013/14,60,Eesti keele riigieksam,65.5,65
+85,Tallinna Nõmme Gümnaasium,2013/14,24,Kitsa matemaatika riigieksam,40.1,31
+86,Tallinna Nõmme Gümnaasium,2013/14,37,Laia matemaatika riigieksam,51.1,50
+87,Tallinna Pae Gümnaasium,2013/14,13,Eesti keel teise keelena riigieksam,85.3,88
+88,Tallinna Pae Gümnaasium,2013/14,10,Kitsa matemaatika riigieksam,44,37
+89,Tallinna Prantsuse Lütseum,2013/14,45,Eesti keele riigieksam,77.8,80
+90,Tallinna Prantsuse Lütseum,2013/14,19,Kitsa matemaatika riigieksam,72.8,81
+91,Tallinna Prantsuse Lütseum,2013/14,26,Laia matemaatika riigieksam,81.3,86
+92,Tallinna Pääsküla Gümnaasium,2013/14,27,Eesti keele riigieksam,49.8,47
+93,Tallinna Pääsküla Gümnaasium,2013/14,20,Kitsa matemaatika riigieksam,15.2,14
+94,Tallinna Pääsküla Gümnaasium,2013/14,7,Laia matemaatika riigieksam,36.9,38
+95,Tallinna Reaalkool,2013/14,100,Eesti keele riigieksam,79.7,81
+96,Tallinna Reaalkool,2013/14,101,Laia matemaatika riigieksam,85.6,88
+97,Tallinna Saksa Gümnaasium,2013/14,64,Eesti keele riigieksam,65.4,66
+98,Tallinna Saksa Gümnaasium,2013/14,19,Kitsa matemaatika riigieksam,23.3,22
+99,Tallinna Saksa Gümnaasium,2013/14,24,Laia matemaatika riigieksam,38.8,34
+100,Tallinna Südalinna Kool,2013/14,24,Eesti keele riigieksam,51.4,48
+101,Tallinna Südalinna Kool,2013/14,12,Kitsa matemaatika riigieksam,16.4,16
+102,Tallinna Südalinna Kool,2013/14,12,Laia matemaatika riigieksam,15.2,14
+103,Tallinna Tehnikagümnaasium,2013/14,61,Eesti keele riigieksam,61.2,62
+104,Tallinna Tehnikagümnaasium,2013/14,60,Laia matemaatika riigieksam,44.4,39
+105,Tallinna Tõnismäe Reaalkool,2013/14,46,Eesti keel teise keelena riigieksam,79.7,82
+106,Tallinna Tõnismäe Reaalkool,2013/14,27,Kitsa matemaatika riigieksam,53.9,54
+107,Tallinna Tõnismäe Reaalkool,2013/14,24,Laia matemaatika riigieksam,72.8,78
+108,Tallinna Õismäe Gümnaasium,2013/14,54,Eesti keele riigieksam,60.5,62
+109,Tallinna Õismäe Gümnaasium,2013/14,22,Kitsa matemaatika riigieksam,24.6,24
+110,Tallinna Õismäe Gümnaasium,2013/14,32,Laia matemaatika riigieksam,52.8,52
+111,Tallinna Õismäe Vene Lütseum,2013/14,39,Eesti keel teise keelena riigieksam,82.5,85
+112,Tallinna Õismäe Vene Lütseum,2013/14,18,Kitsa matemaatika riigieksam,33.1,33
+113,Tallinna Õismäe Vene Lütseum,2013/14,25,Laia matemaatika riigieksam,65.4,75
+114,Tallinna Ühisgümnaasium,2013/14,64,Eesti keele riigieksam,65.8,68
+115,Tallinna Ühisgümnaasium,2013/14,38,Kitsa matemaatika riigieksam,39.7,38
+116,Tallinna Ühisgümnaasium,2013/14,26,Laia matemaatika riigieksam,50.9,47
+117,Vanalinna Hariduskolleegium,2013/14,91,Eesti keele riigieksam,68,70
+118,Vanalinna Hariduskolleegium,2013/14,39,Kitsa matemaatika riigieksam,48.3,41
+119,Vanalinna Hariduskolleegium,2013/14,51,Laia matemaatika riigieksam,68.3,73
+120,Ehte Humanitaargümnaasium,2014/15,50,Eesti keel teise keelena riigieksam,65.3,64
+121,Ehte Humanitaargümnaasium,2014/15,34,Kitsa matemaatika riigieksam,38.5,35
+122,Ehte Humanitaargümnaasium,2014/15,17,Laia matemaatika riigieksam,49.5,48
+123,Gustav Adolfi Gümnaasium,2014/15,131,Eesti keele riigieksam,75,77
+124,Gustav Adolfi Gümnaasium,2014/15,15,Kitsa matemaatika riigieksam,58.1,55
+125,Gustav Adolfi Gümnaasium,2014/15,115,Laia matemaatika riigieksam,68.4,70
+126,Haabersti Vene Gümnaasium,2014/15,38,Eesti keel teise keelena riigieksam,79,85
+127,Haabersti Vene Gümnaasium,2014/15,7,Kitsa matemaatika riigieksam,44.1,41
+128,Haabersti Vene Gümnaasium,2014/15,23,Laia matemaatika riigieksam,55.7,58
+129,Jakob Westholmi Gümnaasium,2014/15,64,Eesti keele riigieksam,67.6,67
+130,Jakob Westholmi Gümnaasium,2014/15,15,Kitsa matemaatika riigieksam,46.4,34
+131,Jakob Westholmi Gümnaasium,2014/15,48,Laia matemaatika riigieksam,55.4,56
+132,Kadrioru Saksa Gümnaasium,2014/15,40,Eesti keele riigieksam,71.7,72
+133,Kadrioru Saksa Gümnaasium,2014/15,40,Laia matemaatika riigieksam,29.6,25
+134,Lasnamäe Gümnaasium,2014/15,49,Eesti keel teise keelena riigieksam,68.5,70
+135,Lasnamäe Gümnaasium,2014/15,29,Kitsa matemaatika riigieksam,36.9,30
+136,Lasnamäe Gümnaasium,2014/15,21,Laia matemaatika riigieksam,53.2,59
+137,Lasnamäe Vene Gümnaasium,2014/15,41,Eesti keel teise keelena riigieksam,68.5,73
+138,Lasnamäe Vene Gümnaasium,2014/15,23,Kitsa matemaatika riigieksam,32.3,31
+139,Lasnamäe Vene Gümnaasium,2014/15,21,Laia matemaatika riigieksam,40.2,34
+140,Pelgulinna Gümnaasium,2014/15,48,Eesti keele riigieksam,51,50
+141,Pelgulinna Gümnaasium,2014/15,11,Kitsa matemaatika riigieksam,23,17
+142,Pelgulinna Gümnaasium,2014/15,37,Laia matemaatika riigieksam,18.6,14
+143,Pirita Majandusgümnaasium,2014/15,48,Eesti keele riigieksam,58.9,56
+144,Pirita Majandusgümnaasium,2014/15,17,Kitsa matemaatika riigieksam,29.6,26
+145,Pirita Majandusgümnaasium,2014/15,31,Laia matemaatika riigieksam,31.4,28
+146,Tallinna 21. Kool,2014/15,94,Eesti keele riigieksam,71.6,75
+147,Tallinna 21. Kool,2014/15,13,Kitsa matemaatika riigieksam,49.2,49
+148,Tallinna 21. Kool,2014/15,81,Laia matemaatika riigieksam,53.3,58
+149,Tallinna 32. Keskkool,2014/15,114,Eesti keele riigieksam,61.7,62
+150,Tallinna 32. Keskkool,2014/15,31,Kitsa matemaatika riigieksam,32.9,33
+151,Tallinna 32. Keskkool,2014/15,84,Laia matemaatika riigieksam,38.2,35
+152,Tallinna 53. Keskkool,2014/15,24,Eesti keel teise keelena riigieksam,81.8,86
+153,Tallinna 53. Keskkool,2014/15,14,Kitsa matemaatika riigieksam,29.4,27
+154,Tallinna 53. Keskkool,2014/15,11,Laia matemaatika riigieksam,60.6,58
+155,Tallinna Arte Gümnaasium,2014/15,54,Eesti keele riigieksam,46.7,46
+156,Tallinna Arte Gümnaasium,2014/15,32,Kitsa matemaatika riigieksam,26.4,24
+157,Tallinna Arte Gümnaasium,2014/15,22,Laia matemaatika riigieksam,36.2,37
+158,Tallinna Humanitaargümnaasium,2014/15,48,Eesti keel teise keelena riigieksam,91.2,94
+159,Tallinna Humanitaargümnaasium,2014/15,46,Laia matemaatika riigieksam,49.6,48
+160,Tallinna Juudi Kool,2014/15,17,Eesti keel teise keelena riigieksam,81.2,80
+161,Tallinna Juudi Kool,2014/15,13,Kitsa matemaatika riigieksam,38.6,35
+162,Tallinna Juudi Kool,2014/15,5,Laia matemaatika riigieksam,57.2,48
+163,Tallinna Järveotsa Gümnaasium,2014/15,26,Eesti keele riigieksam,57.1,56
+164,Tallinna Järveotsa Gümnaasium,2014/15,9,Kitsa matemaatika riigieksam,44.9,44
+165,Tallinna Järveotsa Gümnaasium,2014/15,17,Laia matemaatika riigieksam,39.8,29
+166,Tallinna Kesklinna Vene Gümnaasium,2014/15,45,Eesti keel teise keelena riigieksam,72.2,77
+167,Tallinna Kesklinna Vene Gümnaasium,2014/15,21,Kitsa matemaatika riigieksam,49.5,45
+168,Tallinna Kesklinna Vene Gümnaasium,2014/15,29,Laia matemaatika riigieksam,62.6,62
+169,Tallinna Kristiine Gümnaasium,2014/15,42,Eesti keele riigieksam,60.3,62
+170,Tallinna Kristiine Gümnaasium,2014/15,21,Kitsa matemaatika riigieksam,33.5,26
+171,Tallinna Kristiine Gümnaasium,2014/15,21,Laia matemaatika riigieksam,46.3,48
+172,Tallinna Kunstigümnaasium,2014/15,27,Eesti keele riigieksam,53,52
+173,Tallinna Kunstigümnaasium,2014/15,17,Kitsa matemaatika riigieksam,24.5,21
+174,Tallinna Kunstigümnaasium,2014/15,10,Laia matemaatika riigieksam,32.4,22
+175,Tallinna Kuristiku Gümnaasium,2014/15,42,Eesti keele riigieksam,59.8,61
+176,Tallinna Kuristiku Gümnaasium,2014/15,22,Kitsa matemaatika riigieksam,44.5,44
+177,Tallinna Kuristiku Gümnaasium,2014/15,21,Laia matemaatika riigieksam,63.9,60
+178,Tallinna Laagna Gümnaasium,2014/15,31,Eesti keele riigieksam,52.2,52
+179,Tallinna Laagna Gümnaasium,2014/15,22,Kitsa matemaatika riigieksam,42.2,42
+180,Tallinna Laagna Gümnaasium,2014/15,12,Laia matemaatika riigieksam,51.4,52
+181,Tallinna Lilleküla Gümnaasium,2014/15,64,Eesti keele riigieksam,67.3,69
+182,Tallinna Lilleküla Gümnaasium,2014/15,25,Kitsa matemaatika riigieksam,37,34
+183,Tallinna Lilleküla Gümnaasium,2014/15,40,Laia matemaatika riigieksam,51,51
+184,Tallinna Linnamäe Vene Lütseum,2014/15,44,Eesti keel teise keelena riigieksam,85.4,89
+185,Tallinna Linnamäe Vene Lütseum,2014/15,15,Kitsa matemaatika riigieksam,65.5,62
+186,Tallinna Linnamäe Vene Lütseum,2014/15,30,Laia matemaatika riigieksam,66.7,67
+187,Tallinna Läänemere Gümnaasium,2014/15,45,Eesti keel teise keelena riigieksam,74.9,82
+188,Tallinna Läänemere Gümnaasium,2014/15,28,Kitsa matemaatika riigieksam,40.5,40
+189,Tallinna Läänemere Gümnaasium,2014/15,17,Laia matemaatika riigieksam,65.5,69
+190,Tallinna Mustamäe Gümnaasium,2014/15,41,Eesti keele riigieksam,69,69
+191,Tallinna Mustamäe Gümnaasium,2014/15,37,Laia matemaatika riigieksam,48.1,49
+192,Tallinna Mustamäe Humanitaargümnaasium,2014/15,36,Eesti keel teise keelena riigieksam,90.7,93
+193,Tallinna Mustamäe Humanitaargümnaasium,2014/15,19,Kitsa matemaatika riigieksam,47.1,44
+194,Tallinna Mustamäe Humanitaargümnaasium,2014/15,22,Laia matemaatika riigieksam,52.7,52
+195,Tallinna Mustamäe Reaalgümnaasium,2014/15,45,Eesti keel teise keelena riigieksam,71,73
+196,Tallinna Mustamäe Reaalgümnaasium,2014/15,18,Kitsa matemaatika riigieksam,28.7,30
+197,Tallinna Mustamäe Reaalgümnaasium,2014/15,27,Laia matemaatika riigieksam,46.7,46
+198,Tallinna Mustjõe Gümnaasium,2014/15,37,Eesti keel teise keelena riigieksam,64.5,69
+199,Tallinna Mustjõe Gümnaasium,2014/15,29,Kitsa matemaatika riigieksam,31.7,27
+200,Tallinna Mustjõe Gümnaasium,2014/15,8,Laia matemaatika riigieksam,51.1,34
+201,Tallinna Nõmme Gümnaasium,2014/15,63,Eesti keele riigieksam,67.6,68
+202,Tallinna Nõmme Gümnaasium,2014/15,17,Kitsa matemaatika riigieksam,55.1,55
+203,Tallinna Nõmme Gümnaasium,2014/15,46,Laia matemaatika riigieksam,51,48
+204,Tallinna Pae Gümnaasium,2014/15,7,Eesti keel teise keelena riigieksam,83.3,85
+205,Tallinna Pae Gümnaasium,2014/15,12,Laia matemaatika riigieksam,56.3,56
+206,Tallinna Prantsuse Lütseum,2014/15,56,Eesti keele riigieksam,84.1,86
+207,Tallinna Prantsuse Lütseum,2014/15,20,Kitsa matemaatika riigieksam,77.2,80
+208,Tallinna Prantsuse Lütseum,2014/15,36,Laia matemaatika riigieksam,77.8,80
+209,Tallinna Pääsküla Gümnaasium,2014/15,35,Eesti keele riigieksam,51.1,51
+210,Tallinna Pääsküla Gümnaasium,2014/15,22,Kitsa matemaatika riigieksam,24.3,26
+211,Tallinna Pääsküla Gümnaasium,2014/15,14,Laia matemaatika riigieksam,34.2,24
+212,Tallinna Reaalkool,2014/15,107,Eesti keele riigieksam,79.5,82
+213,Tallinna Reaalkool,2014/15,106,Laia matemaatika riigieksam,83.9,87
+214,Tallinna Saksa Gümnaasium,2014/15,59,Eesti keele riigieksam,57.2,60
+215,Tallinna Saksa Gümnaasium,2014/15,17,Kitsa matemaatika riigieksam,26,25
+216,Tallinna Saksa Gümnaasium,2014/15,22,Laia matemaatika riigieksam,23.2,20
+217,Tallinna Südalinna Kool,2014/15,11,Eesti keele riigieksam,55.1,55
+218,Tallinna Südalinna Kool,2014/15,7,Kitsa matemaatika riigieksam,24.9,25
+219,Tallinna Tehnikagümnaasium,2014/15,56,Eesti keele riigieksam,58.3,58
+220,Tallinna Tehnikagümnaasium,2014/15,56,Laia matemaatika riigieksam,35.3,32
+221,Tallinna Tõnismäe Reaalkool,2014/15,26,Eesti keel teise keelena riigieksam,84.3,87
+222,Tallinna Tõnismäe Reaalkool,2014/15,11,Kitsa matemaatika riigieksam,66.1,69
+223,Tallinna Tõnismäe Reaalkool,2014/15,20,Laia matemaatika riigieksam,73.7,76
+224,Tallinna Õismäe Gümnaasium,2014/15,34,Eesti keele riigieksam,55.3,60
+225,Tallinna Õismäe Gümnaasium,2014/15,30,Laia matemaatika riigieksam,39.3,34
+226,Tallinna Õismäe Vene Lütseum,2014/15,36,Eesti keel teise keelena riigieksam,84.3,86
+227,Tallinna Õismäe Vene Lütseum,2014/15,11,Kitsa matemaatika riigieksam,57.1,51
+228,Tallinna Õismäe Vene Lütseum,2014/15,34,Laia matemaatika riigieksam,53.4,54
+229,Tallinna Ühisgümnaasium,2014/15,71,Eesti keele riigieksam,63.4,63
+230,Tallinna Ühisgümnaasium,2014/15,20,Kitsa matemaatika riigieksam,48.9,52
+231,Tallinna Ühisgümnaasium,2014/15,50,Laia matemaatika riigieksam,41,38
+232,Vanalinna Hariduskolleegium,2014/15,84,Eesti keele riigieksam,67.5,70
+233,Vanalinna Hariduskolleegium,2014/15,20,Kitsa matemaatika riigieksam,37.4,42
+234,Vanalinna Hariduskolleegium,2014/15,64,Laia matemaatika riigieksam,57.8,58
+235,Ehte Humanitaargümnaasium,2015/16,43,Eesti keel teise keelena riigieksam,72.5,73
+236,Ehte Humanitaargümnaasium,2015/16,17,Kitsa matemaatika riigieksam,48.1,49
+237,Ehte Humanitaargümnaasium,2015/16,27,Laia matemaatika riigieksam,54.6,51
+238,Gustav Adolfi Gümnaasium,2015/16,131,Eesti keele riigieksam,80.1,81
+239,Gustav Adolfi Gümnaasium,2015/16,10,Kitsa matemaatika riigieksam,78.2,82
+240,Gustav Adolfi Gümnaasium,2015/16,121,Laia matemaatika riigieksam,73.5,78
+241,Haabersti Vene Gümnaasium,2015/16,33,Eesti keel teise keelena riigieksam,69.4,75
+242,Haabersti Vene Gümnaasium,2015/16,6,Kitsa matemaatika riigieksam,13.5,13.5
+243,Haabersti Vene Gümnaasium,2015/16,27,Laia matemaatika riigieksam,30,22
+244,Jakob Westholmi Gümnaasium,2015/16,57,Eesti keele riigieksam,73.5,74
+245,Jakob Westholmi Gümnaasium,2015/16,29,Kitsa matemaatika riigieksam,56,53
+246,Jakob Westholmi Gümnaasium,2015/16,28,Laia matemaatika riigieksam,70.2,74
+247,Kadrioru Saksa Gümnaasium,2015/16,59,Eesti keele riigieksam,66.3,67
+248,Kadrioru Saksa Gümnaasium,2015/16,10,Kitsa matemaatika riigieksam,52.4,50
+249,Kadrioru Saksa Gümnaasium,2015/16,48,Laia matemaatika riigieksam,49.5,51.5
+250,Lasnamäe Gümnaasium,2015/16,40,Eesti keel teise keelena riigieksam,72.5,75.5
+251,Lasnamäe Gümnaasium,2015/16,13,Kitsa matemaatika riigieksam,40.4,35
+252,Lasnamäe Gümnaasium,2015/16,30,Laia matemaatika riigieksam,48,48.5
+253,Lasnamäe Vene Gümnaasium,2015/16,35,Eesti keel teise keelena riigieksam,63.6,62
+254,Lasnamäe Vene Gümnaasium,2015/16,24,Kitsa matemaatika riigieksam,41.6,43.5
+255,Lasnamäe Vene Gümnaasium,2015/16,12,Laia matemaatika riigieksam,56.8,62
+256,Pelgulinna Gümnaasium,2015/16,55,Eesti keele riigieksam,54.4,54
+257,Pelgulinna Gümnaasium,2015/16,18,Kitsa matemaatika riigieksam,21.4,18.5
+258,Pelgulinna Gümnaasium,2015/16,36,Laia matemaatika riigieksam,28,21.5
+259,Pirita Majandusgümnaasium,2015/16,39,Eesti keele riigieksam,54.6,55
+260,Pirita Majandusgümnaasium,2015/16,12,Kitsa matemaatika riigieksam,36.7,35.5
+261,Pirita Majandusgümnaasium,2015/16,27,Laia matemaatika riigieksam,31.6,28
+262,Tallinna 21. Kool,2015/16,86,Eesti keele riigieksam,75.5,76.5
+263,Tallinna 21. Kool,2015/16,22,Kitsa matemaatika riigieksam,66.3,70.5
+264,Tallinna 21. Kool,2015/16,64,Laia matemaatika riigieksam,68.5,70
+265,Tallinna 32. Keskkool,2015/16,106,Eesti keele riigieksam,66.4,68.5
+266,Tallinna 32. Keskkool,2015/16,28,Kitsa matemaatika riigieksam,38.8,30
+267,Tallinna 32. Keskkool,2015/16,77,Laia matemaatika riigieksam,43.3,43
+268,Tallinna 53. Keskkool,2015/16,40,Eesti keel teise keelena riigieksam,73.8,77
+269,Tallinna 53. Keskkool,2015/16,20,Kitsa matemaatika riigieksam,35.6,33
+270,Tallinna 53. Keskkool,2015/16,21,Laia matemaatika riigieksam,63.5,66
+271,Tallinna Arte Gümnaasium,2015/16,49,Eesti keele riigieksam,57.7,61
+272,Tallinna Arte Gümnaasium,2015/16,26,Kitsa matemaatika riigieksam,36.1,32
+273,Tallinna Arte Gümnaasium,2015/16,23,Laia matemaatika riigieksam,51.3,49
+274,Tallinna Humanitaargümnaasium,2015/16,38,Eesti keel teise keelena riigieksam,90.1,92
+275,Tallinna Humanitaargümnaasium,2015/16,7,Kitsa matemaatika riigieksam,55.6,59
+276,Tallinna Humanitaargümnaasium,2015/16,36,Laia matemaatika riigieksam,53.2,56
+277,Tallinna Juudi Kool,2015/16,13,Eesti keel teise keelena riigieksam,83.2,83
+278,Tallinna Juudi Kool,2015/16,10,Kitsa matemaatika riigieksam,53.3,50.5
+279,Tallinna Järveotsa Gümnaasium,2015/16,32,Eesti keele riigieksam,54.7,50.5
+280,Tallinna Järveotsa Gümnaasium,2015/16,17,Kitsa matemaatika riigieksam,31.6,28
+281,Tallinna Järveotsa Gümnaasium,2015/16,15,Laia matemaatika riigieksam,48,51
+282,Tallinna Kesklinna Vene Gümnaasium,2015/16,42,Eesti keel teise keelena riigieksam,78,80
+283,Tallinna Kesklinna Vene Gümnaasium,2015/16,29,Kitsa matemaatika riigieksam,57.1,55
+284,Tallinna Kesklinna Vene Gümnaasium,2015/16,22,Laia matemaatika riigieksam,76.3,83.5
+285,Tallinna Kristiine Gümnaasium,2015/16,32,Eesti keele riigieksam,68.8,69.5
+286,Tallinna Kristiine Gümnaasium,2015/16,17,Kitsa matemaatika riigieksam,62.6,69
+287,Tallinna Kristiine Gümnaasium,2015/16,15,Laia matemaatika riigieksam,76.4,78
+288,Tallinna Kunstigümnaasium,2015/16,21,Eesti keele riigieksam,58.5,63
+289,Tallinna Kunstigümnaasium,2015/16,11,Kitsa matemaatika riigieksam,17,17
+290,Tallinna Kunstigümnaasium,2015/16,10,Laia matemaatika riigieksam,20.6,16
+291,Tallinna Kuristiku Gümnaasium,2015/16,34,Eesti keele riigieksam,57.4,57
+292,Tallinna Kuristiku Gümnaasium,2015/16,15,Kitsa matemaatika riigieksam,40.5,37
+293,Tallinna Kuristiku Gümnaasium,2015/16,19,Laia matemaatika riigieksam,64.8,72
+294,Tallinna Laagna Gümnaasium,2015/16,32,Eesti keele riigieksam,46.4,43.5
+295,Tallinna Laagna Gümnaasium,2015/16,17,Kitsa matemaatika riigieksam,35.9,38
+296,Tallinna Laagna Gümnaasium,2015/16,15,Laia matemaatika riigieksam,39.1,30
+297,Tallinna Lilleküla Gümnaasium,2015/16,82,Eesti keele riigieksam,65.5,65
+298,Tallinna Lilleküla Gümnaasium,2015/16,28,Kitsa matemaatika riigieksam,37.9,35.5
+299,Tallinna Lilleküla Gümnaasium,2015/16,53,Laia matemaatika riigieksam,49.7,54
+300,Tallinna Linnamäe Vene Lütseum,2015/16,48,Eesti keel teise keelena riigieksam,83.8,86
+301,Tallinna Linnamäe Vene Lütseum,2015/16,17,Kitsa matemaatika riigieksam,67.9,79
+302,Tallinna Linnamäe Vene Lütseum,2015/16,33,Laia matemaatika riigieksam,72.7,71
+303,Tallinna Läänemere Gümnaasium,2015/16,33,Eesti keel teise keelena riigieksam,83.5,90
+304,Tallinna Läänemere Gümnaasium,2015/16,20,Kitsa matemaatika riigieksam,63.2,62
+305,Tallinna Läänemere Gümnaasium,2015/16,14,Laia matemaatika riigieksam,79.6,83.5
+306,Tallinna Mustamäe Gümnaasium,2015/16,46,Eesti keele riigieksam,72.5,72
+307,Tallinna Mustamäe Gümnaasium,2015/16,16,Kitsa matemaatika riigieksam,32.4,31
+308,Tallinna Mustamäe Gümnaasium,2015/16,30,Laia matemaatika riigieksam,55.5,54.5
+309,Tallinna Mustamäe Humanitaargümnaasium,2015/16,23,Eesti keel teise keelena riigieksam,87,90
+310,Tallinna Mustamäe Humanitaargümnaasium,2015/16,20,Kitsa matemaatika riigieksam,55.2,57.5
+311,Tallinna Mustamäe Humanitaargümnaasium,2015/16,12,Laia matemaatika riigieksam,57.8,50
+312,Tallinna Mustamäe Reaalgümnaasium,2015/16,37,Eesti keel teise keelena riigieksam,67.2,70
+313,Tallinna Mustamäe Reaalgümnaasium,2015/16,8,Kitsa matemaatika riigieksam,23.5,15
+314,Tallinna Mustamäe Reaalgümnaasium,2015/16,29,Laia matemaatika riigieksam,40.2,36
+315,Tallinna Mustjõe Gümnaasium,2015/16,12,Eesti keel teise keelena riigieksam,60.7,59.5
+316,Tallinna Mustjõe Gümnaasium,2015/16,7,Kitsa matemaatika riigieksam,41.3,51
+317,Tallinna Mustjõe Gümnaasium,2015/16,5,Laia matemaatika riigieksam,66,75
+318,Tallinna Nõmme Gümnaasium,2015/16,74,Eesti keele riigieksam,60.8,60
+319,Tallinna Nõmme Gümnaasium,2015/16,26,Kitsa matemaatika riigieksam,41.5,37.5
+320,Tallinna Nõmme Gümnaasium,2015/16,48,Laia matemaatika riigieksam,55.8,53.5
+321,Tallinna Pae Gümnaasium,2015/16,25,Eesti keel teise keelena riigieksam,76.1,77
+322,Tallinna Pae Gümnaasium,2015/16,20,Kitsa matemaatika riigieksam,50.6,41
+323,Tallinna Pae Gümnaasium,2015/16,7,Laia matemaatika riigieksam,80.4,78
+324,Tallinna Prantsuse Lütseum,2015/16,51,Eesti keele riigieksam,79.7,82
+325,Tallinna Prantsuse Lütseum,2015/16,15,Kitsa matemaatika riigieksam,90.3,91
+326,Tallinna Prantsuse Lütseum,2015/16,36,Laia matemaatika riigieksam,85.3,88
+327,Tallinna Pääsküla Gümnaasium,2015/16,32,Eesti keele riigieksam,49.6,47
+328,Tallinna Pääsküla Gümnaasium,2015/16,20,Kitsa matemaatika riigieksam,22.1,17
+329,Tallinna Pääsküla Gümnaasium,2015/16,12,Laia matemaatika riigieksam,22.2,18
+330,Tallinna Reaalkool,2015/16,105,Eesti keele riigieksam,79,80
+331,Tallinna Reaalkool,2015/16,106,Laia matemaatika riigieksam,88.1,90
+332,Tallinna Saksa Gümnaasium,2015/16,60,Eesti keele riigieksam,69.9,72
+333,Tallinna Saksa Gümnaasium,2015/16,15,Kitsa matemaatika riigieksam,34.2,22
+334,Tallinna Saksa Gümnaasium,2015/16,22,Laia matemaatika riigieksam,33.4,29.5
+335,Tallinna Tehnikagümnaasium,2015/16,56,Eesti keele riigieksam,58,56.5
+336,Tallinna Tehnikagümnaasium,2015/16,56,Laia matemaatika riigieksam,38.4,35.5
+337,Tallinna Tõnismäe Reaalkool,2015/16,43,Eesti keel teise keelena riigieksam,82,84
+338,Tallinna Tõnismäe Reaalkool,2015/16,20,Kitsa matemaatika riigieksam,50.6,49.5
+339,Tallinna Tõnismäe Reaalkool,2015/16,28,Laia matemaatika riigieksam,72.8,79.5
+340,Tallinna Õismäe Gümnaasium,2015/16,40,Eesti keele riigieksam,63.1,63
+341,Tallinna Õismäe Gümnaasium,2015/16,9,Kitsa matemaatika riigieksam,45.4,46
+342,Tallinna Õismäe Gümnaasium,2015/16,31,Laia matemaatika riigieksam,44.3,40
+343,Tallinna Õismäe Vene Lütseum,2015/16,46,Eesti keel teise keelena riigieksam,79.9,84
+344,Tallinna Õismäe Vene Lütseum,2015/16,14,Kitsa matemaatika riigieksam,56,54
+345,Tallinna Õismäe Vene Lütseum,2015/16,38,Laia matemaatika riigieksam,58.3,52.5
+346,Tallinna Ühisgümnaasium,2015/16,83,Eesti keele riigieksam,69.8,70
+347,Tallinna Ühisgümnaasium,2015/16,41,Kitsa matemaatika riigieksam,58.6,62
+348,Tallinna Ühisgümnaasium,2015/16,42,Laia matemaatika riigieksam,65.2,66
+349,Vanalinna Hariduskolleegium,2015/16,91,Eesti keele riigieksam,70.7,72
+350,Vanalinna Hariduskolleegium,2015/16,26,Kitsa matemaatika riigieksam,39.5,38
+351,Vanalinna Hariduskolleegium,2015/16,66,Laia matemaatika riigieksam,55.7,57.5
+352,Ehte Humanitaargümnaasium,2016/17,26,Eesti keel teise keelena riigieksam,76.3,82.5
+353,Ehte Humanitaargümnaasium,2016/17,10,Kitsa matemaatika riigieksam,49.4,39.5
+354,Ehte Humanitaargümnaasium,2016/17,18,Laia matemaatika riigieksam,58.1,60
+355,Gustav Adolfi Gümnaasium,2016/17,125,Eesti keele riigieksam,77.9,78
+356,Gustav Adolfi Gümnaasium,2016/17,21,Kitsa matemaatika riigieksam,73.1,75
+357,Gustav Adolfi Gümnaasium,2016/17,104,Laia matemaatika riigieksam,65.6,70.5
+358,Haabersti Vene Gümnaasium,2016/17,36,Eesti keel teise keelena riigieksam,54.5,54
+359,Haabersti Vene Gümnaasium,2016/17,7,Kitsa matemaatika riigieksam,28,19
+360,Haabersti Vene Gümnaasium,2016/17,29,Laia matemaatika riigieksam,15.2,7
+361,Jakob Westholmi Gümnaasium,2016/17,61,Eesti keele riigieksam,69.9,71
+362,Jakob Westholmi Gümnaasium,2016/17,41,Kitsa matemaatika riigieksam,64.9,66
+363,Jakob Westholmi Gümnaasium,2016/17,20,Laia matemaatika riigieksam,66.3,73
+364,Kadrioru Saksa Gümnaasium,2016/17,52,Eesti keele riigieksam,69.1,72
+365,Kadrioru Saksa Gümnaasium,2016/17,5,Kitsa matemaatika riigieksam,65.8,67
+366,Kadrioru Saksa Gümnaasium,2016/17,47,Laia matemaatika riigieksam,58.6,58
+367,Lasnamäe Gümnaasium,2016/17,34,Eesti keel teise keelena riigieksam,75.2,74
+368,Lasnamäe Gümnaasium,2016/17,23,Kitsa matemaatika riigieksam,38.1,30
+369,Lasnamäe Gümnaasium,2016/17,11,Laia matemaatika riigieksam,57.8,58
+370,Lasnamäe Vene Gümnaasium,2016/17,39,Eesti keel teise keelena riigieksam,62.3,63
+371,Lasnamäe Vene Gümnaasium,2016/17,33,Kitsa matemaatika riigieksam,38.8,33
+372,Lasnamäe Vene Gümnaasium,2016/17,6,Laia matemaatika riigieksam,51.7,48
+373,Pelgulinna Gümnaasium,2016/17,47,Eesti keele riigieksam,52.5,51
+374,Pelgulinna Gümnaasium,2016/17,15,Kitsa matemaatika riigieksam,16.1,17
+375,Pelgulinna Gümnaasium,2016/17,31,Laia matemaatika riigieksam,21.2,11
+376,Pirita Majandusgümnaasium,2016/17,39,Eesti keele riigieksam,56.6,58
+377,Pirita Majandusgümnaasium,2016/17,8,Kitsa matemaatika riigieksam,39.6,33
+378,Pirita Majandusgümnaasium,2016/17,31,Laia matemaatika riigieksam,25.7,19
+379,Tallinna 21. Kool,2016/17,98,Eesti keele riigieksam,76.2,76.5
+380,Tallinna 21. Kool,2016/17,47,Kitsa matemaatika riigieksam,62,60
+381,Tallinna 21. Kool,2016/17,51,Laia matemaatika riigieksam,71.5,74
+382,Tallinna 32. Keskkool,2016/17,114,Eesti keele riigieksam,65.5,67
+383,Tallinna 32. Keskkool,2016/17,42,Kitsa matemaatika riigieksam,37.5,34
+384,Tallinna 32. Keskkool,2016/17,71,Laia matemaatika riigieksam,43.9,44
+385,Tallinna 53. Keskkool,2016/17,35,Eesti keel teise keelena riigieksam,71.3,74
+386,Tallinna 53. Keskkool,2016/17,17,Kitsa matemaatika riigieksam,21.8,18
+387,Tallinna 53. Keskkool,2016/17,18,Laia matemaatika riigieksam,47.2,44.5
+388,Tallinna Arte Gümnaasium,2016/17,47,Eesti keele riigieksam,56.2,61
+389,Tallinna Arte Gümnaasium,2016/17,26,Kitsa matemaatika riigieksam,31.2,27
+390,Tallinna Arte Gümnaasium,2016/17,24,Laia matemaatika riigieksam,46.2,53
+391,Tallinna Humanitaargümnaasium,2016/17,44,Eesti keel teise keelena riigieksam,92.4,94
+392,Tallinna Humanitaargümnaasium,2016/17,20,Kitsa matemaatika riigieksam,55.4,53.5
+393,Tallinna Humanitaargümnaasium,2016/17,25,Laia matemaatika riigieksam,69.4,68
+394,Tallinna Juudi Kool,2016/17,15,Eesti keel teise keelena riigieksam,79.5,88
+395,Tallinna Juudi Kool,2016/17,9,Kitsa matemaatika riigieksam,43.4,46
+396,Tallinna Juudi Kool,2016/17,6,Laia matemaatika riigieksam,76.3,78.5
+397,Tallinna Järveotsa Gümnaasium,2016/17,26,Eesti keele riigieksam,56.3,51
+398,Tallinna Järveotsa Gümnaasium,2016/17,17,Kitsa matemaatika riigieksam,34.5,24
+399,Tallinna Järveotsa Gümnaasium,2016/17,9,Laia matemaatika riigieksam,33,40
+400,Tallinna Kesklinna Vene Gümnaasium,2016/17,45,Eesti keel teise keelena riigieksam,72.1,77
+401,Tallinna Kesklinna Vene Gümnaasium,2016/17,38,Kitsa matemaatika riigieksam,56,62
+402,Tallinna Kesklinna Vene Gümnaasium,2016/17,9,Laia matemaatika riigieksam,87.9,91
+403,Tallinna Kristiine Gümnaasium,2016/17,34,Eesti keele riigieksam,56.7,60
+404,Tallinna Kristiine Gümnaasium,2016/17,15,Kitsa matemaatika riigieksam,41.3,44
+405,Tallinna Kristiine Gümnaasium,2016/17,19,Laia matemaatika riigieksam,40,41
+406,Tallinna Kunstigümnaasium,2016/17,20,Eesti keele riigieksam,45,41.5
+407,Tallinna Kunstigümnaasium,2016/17,10,Kitsa matemaatika riigieksam,31.2,22.5
+408,Tallinna Kunstigümnaasium,2016/17,10,Laia matemaatika riigieksam,10.1,5
+409,Tallinna Kuristiku Gümnaasium,2016/17,28,Eesti keele riigieksam,58.2,56.5
+410,Tallinna Kuristiku Gümnaasium,2016/17,19,Kitsa matemaatika riigieksam,42.8,41
+411,Tallinna Kuristiku Gümnaasium,2016/17,9,Laia matemaatika riigieksam,72.8,78
+412,Tallinna Laagna Gümnaasium,2016/17,42,Eesti keele riigieksam,58.3,56.5
+413,Tallinna Laagna Gümnaasium,2016/17,26,Kitsa matemaatika riigieksam,49.6,47.5
+414,Tallinna Laagna Gümnaasium,2016/17,16,Laia matemaatika riigieksam,59.8,53.5
+415,Tallinna Lilleküla Gümnaasium,2016/17,62,Eesti keele riigieksam,64.5,65
+416,Tallinna Lilleküla Gümnaasium,2016/17,15,Kitsa matemaatika riigieksam,42.9,41
+417,Tallinna Lilleküla Gümnaasium,2016/17,47,Laia matemaatika riigieksam,50,49
+418,Tallinna Linnamäe Vene Lütseum,2016/17,39,Eesti keel teise keelena riigieksam,85.7,86
+419,Tallinna Linnamäe Vene Lütseum,2016/17,19,Kitsa matemaatika riigieksam,65.2,62
+420,Tallinna Linnamäe Vene Lütseum,2016/17,21,Laia matemaatika riigieksam,70.7,74
+421,Tallinna Läänemere Gümnaasium,2016/17,36,Eesti keel teise keelena riigieksam,86,91.5
+422,Tallinna Läänemere Gümnaasium,2016/17,21,Kitsa matemaatika riigieksam,44,44
+423,Tallinna Läänemere Gümnaasium,2016/17,15,Laia matemaatika riigieksam,78.7,80
+424,Tallinna Mustamäe Gümnaasium,2016/17,58,Eesti keele riigieksam,61.4,61.5
+425,Tallinna Mustamäe Gümnaasium,2016/17,12,Kitsa matemaatika riigieksam,43.1,38.5
+426,Tallinna Mustamäe Gümnaasium,2016/17,46,Laia matemaatika riigieksam,36.6,35
+427,Tallinna Mustamäe Humanitaargümnaasium,2016/17,38,Eesti keel teise keelena riigieksam,90.8,92.5
+428,Tallinna Mustamäe Humanitaargümnaasium,2016/17,22,Kitsa matemaatika riigieksam,42.4,38
+429,Tallinna Mustamäe Humanitaargümnaasium,2016/17,23,Laia matemaatika riigieksam,60.8,69
+430,Tallinna Mustamäe Reaalgümnaasium,2016/17,20,Eesti keel teise keelena riigieksam,66.6,69.5
+431,Tallinna Mustamäe Reaalgümnaasium,2016/17,10,Kitsa matemaatika riigieksam,41.9,42.5
+432,Tallinna Mustamäe Reaalgümnaasium,2016/17,11,Laia matemaatika riigieksam,34.6,35
+433,Tallinna Mustjõe Gümnaasium,2016/17,27,Eesti keel teise keelena riigieksam,62.8,65
+434,Tallinna Mustjõe Gümnaasium,2016/17,23,Kitsa matemaatika riigieksam,27.6,23
+435,Tallinna Nõmme Gümnaasium,2016/17,67,Eesti keele riigieksam,62.6,63
+436,Tallinna Nõmme Gümnaasium,2016/17,17,Kitsa matemaatika riigieksam,43,40
+437,Tallinna Nõmme Gümnaasium,2016/17,50,Laia matemaatika riigieksam,60.5,61
+438,Tallinna Pae Gümnaasium,2016/17,31,Eesti keel teise keelena riigieksam,77.9,84
+439,Tallinna Pae Gümnaasium,2016/17,25,Kitsa matemaatika riigieksam,51.1,51
+440,Tallinna Pae Gümnaasium,2016/17,7,Laia matemaatika riigieksam,54.7,58
+441,Tallinna Prantsuse Lütseum,2016/17,50,Eesti keele riigieksam,81,84
+442,Tallinna Prantsuse Lütseum,2016/17,19,Kitsa matemaatika riigieksam,80.3,83
+443,Tallinna Prantsuse Lütseum,2016/17,32,Laia matemaatika riigieksam,83.9,87
+444,Tallinna Reaalkool,2016/17,106,Eesti keele riigieksam,83.7,85
+445,Tallinna Reaalkool,2016/17,106,Laia matemaatika riigieksam,89.3,91
+446,Tallinna Saksa Gümnaasium,2016/17,68,Eesti keele riigieksam,65.6,66.5
+447,Tallinna Saksa Gümnaasium,2016/17,14,Kitsa matemaatika riigieksam,30.8,26
+448,Tallinna Saksa Gümnaasium,2016/17,31,Laia matemaatika riigieksam,27.3,18
+449,Tallinna Tehnikagümnaasium,2016/17,49,Eesti keele riigieksam,59.7,60
+450,Tallinna Tehnikagümnaasium,2016/17,47,Laia matemaatika riigieksam,28.7,26
+451,Tallinna Tõnismäe Reaalkool,2016/17,52,Eesti keel teise keelena riigieksam,85.6,88.5
+452,Tallinna Tõnismäe Reaalkool,2016/17,25,Kitsa matemaatika riigieksam,63,66
+453,Tallinna Tõnismäe Reaalkool,2016/17,27,Laia matemaatika riigieksam,62.1,66
+454,Tallinna Õismäe Gümnaasium,2016/17,37,Eesti keele riigieksam,62.1,61
+455,Tallinna Õismäe Gümnaasium,2016/17,15,Kitsa matemaatika riigieksam,31.9,34
+456,Tallinna Õismäe Gümnaasium,2016/17,23,Laia matemaatika riigieksam,54.4,54
+457,Tallinna Õismäe Vene Lütseum,2016/17,51,Eesti keel teise keelena riigieksam,84.4,88
+458,Tallinna Õismäe Vene Lütseum,2016/17,20,Kitsa matemaatika riigieksam,44,41.5
+459,Tallinna Õismäe Vene Lütseum,2016/17,31,Laia matemaatika riigieksam,42.3,39
+460,Tallinna Ühisgümnaasium,2016/17,71,Eesti keele riigieksam,62.5,63
+461,Tallinna Ühisgümnaasium,2016/17,36,Kitsa matemaatika riigieksam,31.4,28.5
+462,Tallinna Ühisgümnaasium,2016/17,35,Laia matemaatika riigieksam,45.4,44
+463,Vanalinna Hariduskolleegium,2016/17,96,Eesti keele riigieksam,70.1,70.5
+464,Vanalinna Hariduskolleegium,2016/17,18,Kitsa matemaatika riigieksam,41.3,40.5
+465,Vanalinna Hariduskolleegium,2016/17,79,Laia matemaatika riigieksam,52.2,54
