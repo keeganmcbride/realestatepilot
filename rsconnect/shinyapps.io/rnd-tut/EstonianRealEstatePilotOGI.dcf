@@ -1,0 +1,12 @@
+name: EstonianRealEstatePilotOGI
+title: EstonianRealEstatePilotOGI
+username:
+account: rnd-tut
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 600074
+bundleId: 1739107
+url: https://rnd-tut.shinyapps.io/EstonianRealEstatePilotOGI/
+when: 1543925387.86373
+asMultiple: FALSE
+asStatic: FALSE

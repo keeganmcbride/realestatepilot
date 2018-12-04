@@ -1,28 +1,47 @@
 #Server
 server <- function(input, output) {
-  key <- "yourkeyhere"
+  key <- "your own key :)"
   register_google(key=key)
   dataset <- reactive({
     plotDataset <- get(input$datasetChoice)
   })
   
   datasetTest <- reactive({
-    datasetVisualization <- get(input$data)
-    if(input$data == "school"){
+    datasetVisualization <- get(input$datasets)
+    if(input$datasets == "school"){
       datasetVisualization <- school %>% select(Nimi,Õppekeel,Aadress)
     }
-    if(input$data == "lasteaed"){
+    if(input$datasets == "lasteaed"){
       datasetVisualization <- lasteaed %>%  select(Nimi,Õppekeel, Aadress)
     }
-    if(input$data == "public"){
-      datasetVisualization <- public %>% select(ToimKpv,ToimKell,ToimNadalapaev,SyndmusLiik,SyndmusTaiendavStatLiik,KohtNimetus)
+    if(input$datasets == "public"){
+      datasetVisualization <- public %>% select(ToimKpv,ToimKell,ToimNadalapaev,SyndmusLiik,KohtNimetus)
     }
-    if(input$data == "property"){
-      datasetVisualization <- property  %>% select(ToimKpv,ToimKell,ToimNadalapaev,SyndmusLiik,SyndmusTaiendavStatLiik,Kahjusumma)
+    if(input$datasets == "property"){
+      datasetVisualization <- property  %>% select(ToimKpv,ToimKell,ToimNadalapaev,SyndmusLiik,Kahjusumma)
     }
-    if(input$data == "traffic"){
+    if(input$datasets == "crashDataCleanedFixed"){
+      datasetVisualization <- crashDataCleanedFixed %>% select(Kuupäev,Kellaaeg, Situatsiooni.tüüp, Kahju.suurus..euro.)
+    }
+    if(input$datasets == "traffic"){
       datasetVisualization <- traffic %>% select(ToimKpv,ToimKell,ToimNadalapaev,KohtNimetus,SoidukMark,RikkujaVanus,RikkujaSugu)
     }
+    if(input$datasets == "playgrounds"){
+      datasetVisualization <- playgrounds %>% select(name,district)
+    }
+    if(input$datasets == "dogParks"){
+      datasetVisualization <- dogParks %>% select(name,district)
+    }
+    if(input$datasets == "sportCenters"){
+      datasetVisualization <- sportCenters
+    }
+    if(input$datasets == "salePrices"){
+      datasetVisualization <- salePrices
+    }
+    if(input$datasets == "schools"){
+      datasetVisualization <- schools
+    }
+    
     datasetVisualization
   })
   
@@ -67,18 +86,17 @@ server <- function(input, output) {
                                   "Damage:", property$Kahjusumma
                                 ))
     }
-    if("traffic" %in% input$datasetChoice){
-      traffic <- traffic %>% filter(ToimKpv>=input$dateSelect[1] & ToimKpv<=input$dateSelect[2])
-      
-      map <- map %>% addAwesomeMarkers(lng = traffic$lon,
-                                lat = traffic$lat,
+    if("crashDataCleanedFixed" %in% input$datasetChoice){
+      crashDataCleanedFixed <- crashDataCleanedFixed %>% filter(Kuupäev>=input$dateSelect[1] & Kuupäev<=input$dateSelect[2])
+      map <- map %>% addAwesomeMarkers(lng = crashDataCleanedFixed$Lon,
+                                lat = crashDataCleanedFixed$Lat,
                                 clusterOptions = markerClusterOptions(),
                                 popup = paste(
-                                  "Time:", paste(traffic$ToimKpv ,traffic$ToimKell),
+                                  "Time:", paste(crashDataCleanedFixed$Kuupäev ,crashDataCleanedFixed$Kellaaeg),
                                   "<br>",
-                                  "Type and Make:", paste(traffic$SoidukLiik, traffic$SoidukMark),
+                                  "Situation:", crashDataCleanedFixed$Situatsiooni.tüüp,
                                   "<br>",
-                                  "Code:", property$ParagrahvTais
+                                  "Damage:", crashDataCleanedFixed$Kahju.suurus..euro.
                                 ))
     }
     if("public" %in% input$datasetChoice){
@@ -100,7 +118,7 @@ server <- function(input, output) {
     }
     if("school" %in% input$datasetChoice){
       
-      map <- map %>%   addAwesomeMarkers(lng = school$Lon,
+      map <- map %>% addAwesomeMarkers(lng = school$Lon,
                                 lat = school$Lat, icon = schoolIcons,
                                 popup = paste(
                                   "Name:",
@@ -117,6 +135,37 @@ server <- function(input, output) {
                                 )
                                 )
     }
+    if("traffic" %in% input$datasetChoice){
+      traffic <- traffic %>% filter(ToimKpv>=input$dateSelect[1] & ToimKpv<=input$dateSelect[2])
+      
+      map <- map %>% addAwesomeMarkers(lng = traffic$lon,
+                                       lat = traffic$lat,
+                                       clusterOptions = markerClusterOptions(),
+                                       popup = paste(
+                                         "Time:", paste(traffic$ToimKpv ,traffic$ToimKell),
+                                         "<br>",
+                                         "Type and Make:", paste(traffic$SoidukLiik, traffic$SoidukMark),
+                                         "<br>",
+                                         "Code:", property$ParagrahvTais
+                                       ))
+    }
+    if("playgrounds" %in% input$datasetChoice){
+      map <-  map %>%   addAwesomeMarkers(lng = playgrounds$longitude,
+                                          lat = playgrounds$latitude,
+                                          popup = paste(
+                                            "Name:",
+                                            playgrounds$name))
+      
+    }
+    if("dogParks" %in% input$datasetChoice){
+      map <-  map %>%   addAwesomeMarkers(lng = dogParks$longitude,
+                                          lat = dogParks$latitude,
+                                          popup = paste(
+                                            "Name:",
+                                            dogParks$name))
+      
+    }
+    
     if("lasteaed" %in% input$datasetChoice){
       map <-  map %>%   addAwesomeMarkers(lng = lasteaed$Lon,
                                 lat = lasteaed$Lat,icon = lasteaedIcons,
@@ -160,10 +209,10 @@ server <- function(input, output) {
  
   })
   
-  #Outputs the datatable that is shown underneath the plot on main page
-  # output$dataview <- renderDataTable({
-  #   DT::datatable(datasetTest(), filter = 'top', options= list(autoWidth=TRUE))
-  # })
+ # Outputs the datatable that is shown underneath the plot on main page
+  output$dataview <- renderDataTable({
+    DT::datatable(datasetTest(), filter = 'top', options= list(autoWidth=TRUE))
+  })
 
   #prints out the data that is shown in the datatable
   output$downloadData <- downloadHandler(
@@ -174,44 +223,7 @@ server <- function(input, output) {
       write.csv(datasetVisualization[input[["dataview_rows_all"]], ], file, row.names = FALSE)
       }
   )
-
-  
-  
-  # observeEvent(input$data, {
-  #   if (input$plotData == "property") {
-  #     data_r$plotData <- iris
-  #     data_r$plotData <- "iris"
-  #   } else {
-  #     data_r$data <- mtcars
-  #     data_r$name <- "mtcars"
-  #   }
-  # })
   data_r <- reactiveValues(data = property, name = "property")
-  
-  
-  observeEvent(input$data, {
-    if(input$data == "property"){
-      data_r$data <- property
-      data_r$data <- "property"
-    }
-    if(input$data == "traffic"){
-        data_r$data <- traffic
-        data_r$data <- "traffic"
-      }
-    if(input$data == "public"){
-      data_r$data <- public
-      data_r$data <- "public"
-    }
-    if(input$data == "schools"){
-      data_r$data <- schools
-      data_r$data <- "schools"
-    }
-    if(input$data == "lasteaed"){
-      data_r$data <- lasteaed
-      data_r$data <- "lasteaed"
-    }
-  })
-  
   callModule(module = esquisserServer, id = "esquisse", data = data_r)
   
 

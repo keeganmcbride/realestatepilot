@@ -8,6 +8,8 @@ library(geojsonio)
 library(ggmap)
 library(dplyr)
 library(esquisse)
+library(readxl)
+library(RJSONIO)
 
  # traffic_crimes = fread("https://opendata.smit.ee/ppa/csv/liiklusjarelevalve_2.csv", enc = "UTF-8")
 #  public_crimes = fread("https://opendata.smit.ee/ppa/csv/avalik_2.csv", encoding = "UTF-8")
@@ -95,7 +97,8 @@ library(esquisse)
 # traffic_crimes <- traffic_crimes %>% select(ToimKpv, ToimKell, ToimNadalapaev, ParagrahvTais,ValdLinnNimetus,KohtNimetus,MntTanavNimetus,SoidukLiik,SoidukMark,RikkujaSugu,RikkujaVanus,lon,lat)
 # property_crimes <- property_crimes %>% select(ToimKpv, ToimKell, ToimNadalapaev, SyndmusLiik, SyndmusTaiendavStatLiik, ParagrahvTais, Kahjusumma, KohtLiik, ValdLinnNimetus, KohtNimetus,lon, lat)
 # public_crimes <-public_crimes %>% select(ToimKpv, ToimKell, ToimNadalapaev, SyndmusLiik, SyndmusTaiendavStatLiik, ParagrahvTais, Kahjusumma, KohtLiik, ValdLinnNimetus, KohtNimetus, lon, lat)
-# saveRDS(traffic_crimes, "trafficCrimeEdited.RDS")
+# crashDataCleanedFixed <- crashDataCleanedFixed %>%  select(Lon,Lat,Kuupäev,Kellaaeg, Kahju.suurus..euro.,Situatsiooni.tüüp) 
+#saveRDS(traffic_crimes, "trafficCrimeEdited.RDS")
 # saveRDS(property_crimes, "propertyCrimeEdited.RDS")
 # saveRDS(public_crimes, "publicCrimeEdited.RDS")
 # schools <- fread("schoolTestScores.csv", encoding = "UTF-8")
@@ -104,6 +107,54 @@ library(esquisse)
 #write.csv(lasteaed,"lasteaed.csv")
 #write.csv(schools,"schools.csv")
 # saveRDS(schools,"schools.RDS")
+# write.csv(crashDataCleanedFixed,"crashDataCleanedFixed.csv")
+# crashDataCleanedFixed <- fread("crashDataCleanedFixed.csv")
+# saveRDS(crashDataCleanedFixed,"crashDataCleanedFixed.RDS")
+# crashDataCleanedFixed <- readRDS("crashDataCleanedFixed.rds")
+# crashDataCleanedFixed <- readRDS("crashDataCleanedFixed.RDS")
+# crashDataCleanedFixed$Kuupäev <- gsub(".*,", "", crashDataCleanedFixed$Kuupäev)
+# crashDataCleanedFixed$Kuupäev <- gsub("[.]", "", crashDataCleanedFixed$Kuupäev)
+# crashDataCleanedFixed$Kuupäev <- gsub(" ", "/", crashDataCleanedFixed$Kuupäev)
+# crashDataCleanedFixed$Kuupäev <- str_sub(crashDataCleanedFixed$Kuupäev, 2)
+# crashDataCleanedFixed$Kuupäev <- gsub("detsember", "11",crashDataCleanedFixed$Kuupäev)
+#crashDataCleanedFixed$Kuupäev <- as.Date(crashDataCleanedFixed$Kuupäev, "%d/%m/%Y")
+#salePrices <- read_excel("property_sales.xlsx")
+#saveRDS(salePrices, "salePrices.RDS")
+#sportsCenters <- fread("sportscenters.csv", encoding = "UTF-8")
+#saveRDS(sportsCenters, "sportsCenters.RDS")
+# schools <- fread("schools.csv")
+#  schools$school <- gsub("<fc>","ü",schools$school)
+#  schools$school <- gsub("<e4>","ä",schools$school)
+#  schools$school <- gsub("<f5>","õ",schools$school)
+#  schools$school <- gsub("<d5>","õ",schools$school)
+#  schools$school <- gsub("<dc>","Ü",schools$school)
+#  saveRDS(schools, "schools.RDS")
+# lasteaed <- fread("lasteaed.csv", encoding = "UTF-8")
+# cols <- c("KohtNimetus", "ToimNadalapaev", "SyndmusLiik", "SyndmusTaiendavStatLiik","Kahjusumma") 
+# property <- property %>% mutate_at(cols, factor)
+# public <- public %>%  mutate_at(cols, factor)
+# cols2 <- c("KohtNimetus", "ToimNadalapaev","SoidukLiik", "SoidukMark", "RikkujaVanus","RikkujaSugu") 
+# cols3 <- c("Year","Linnaosa","Type of building")
+# salePrices <- salePrices %>% mutate_at(cols3,factor)
+# traffic <- traffic %>% mutate_at(cols2, factor)
+# 
+# dogParks <- "dogareas.json"
+# dogPark_Data <- fromJSON(dogParks, encoding = "UTF-8")
+# dogParks <- do.call("rbind.fill", lapply(dogPark_Data, as.data.frame))
+# write.csv(dogParks,"dogparks.csv")
+# dogParks <- fread("dogparks.csv", enc ="UTF-8")
+# saveRDS(dogParks, "dogParks.RDS")
+# playgrounds <- "playgrounds.json"
+# playgrounds_Data <- fromJSON(playgrounds, encoding = "UTF-8")
+# playgrounds <- do.call("rbind.fill", lapply(playgrounds_Data, as.data.frame))
+# write.csv(playgrounds,"playgrounds.csv")
+# playgrounds <- fread("playgrounds.csv", enc ="UTF-8")
+# saveRDS(playgrounds, "playgrounds.RDS")
+#cols <- c("ToimNadalapaev","ParagrahvTais","KohtNimetus","MntTanavNimetus","SoidukLiik","SoidukMark","RikkujaSugu","RikkujaVanus")
+#traffic <- traffic %>% mutate_at(cols,factor)
+
+
+lasteaed <- readRDS("lasteaedData.RDS")
 traffic <- readRDS("trafficCrimeEdited.RDS")
 traffic$ToimKpv <- as.Date(traffic$ToimKpv)
 public <- readRDS("publicCrimeEdited.RDS")
@@ -111,29 +162,41 @@ public$ToimKpv <- as.Date(public$ToimKpv)
 property <- readRDS("propertyCrimeEdited.RDS")
 property$ToimKpv <- as.Date(property$ToimKpv)
 schools <- readRDS("schools.RDS")
-#schools <- fread("schools.csv", encoding = "UTF-8")
-# schools$schoolTestScores.school.or.criterion <- gsub("<fc>","ü",schools$schoolTestScores.school.or.criterion)
-# schools$schoolTestScores.school.or.criterion <- gsub("<e4>","ä",schools$schoolTestScores.school.or.criterion)
-# schools$schoolTestScores.school.or.criterion <- gsub("<f5>","õ",schools$schoolTestScores.school.or.criterion)
-# schools$schoolTestScores.school.or.criterion <- gsub("<d5>","õ",schools$schoolTestScores.school.or.criterion)
-# schools$schoolTestScores.school.or.criterion <- gsub("<dc>","Ü",schools$schoolTestScores.school.or.criterion)
-# saveRDS(schools, "schools.RDS")
+crashDataCleanedFixed <- readRDS("crashDataCleanedFixed.RDS")
+sportCenters <- readRDS("sportsCenters.RDS")
+salePrices <- readRDS("salePrices.RDS")
+school <- readRDS("school.RDS")
+dogParks <- readRDS("dogParks.RDS")
+playgrounds <- readRDS("playgrounds.RDS")
 
 
-school <- fread("school.csv", encoding = "UTF-8")
-lasteaed <- fread("lasteaed.csv", encoding = "UTF-8")
-cols <- c("KohtNimetus", "ToimNadalapaev", "SyndmusLiik", "SyndmusTaiendavStatLiik","Kahjusumma") 
-property <- property %>% mutate_at(cols, factor)
-public <- public %>%  mutate_at(cols, factor)
-cols2 <- c("KohtNimetus", "ToimNadalapaev","SoidukLiik", "SoidukMark", "RikkujaVanus","RikkujaSugu") 
 
-traffic <- traffic %>% mutate_at(cols2, factor)
+
 
 datasetOptions <- c("Property Crime" = "property",
-                    "Traffic Incidents" = "traffic",
+                    "Traffic Incidents (until 2016)" = "crashDataCleanedFixed",
                     "Public Crime" = "public",
                     "School Locations" = "school",
-                    "Lasteaed Locations" = "lasteaed"
+                    "Lasteaed Locations" = "lasteaed",
+                    "Traffic Crimes" = "traffic",
+                    "Child Playgrounds" = "playgrounds",
+                    "Dog Parks" = "dogParks"
 )
+
+datasetExplorer <- c("Property Crime" = "property",
+                     "Traffic Incidents (until 2016)" = "crashDataCleanedFixed",
+                     "Public Crime" = "public",
+                     "School Locations" = "school",
+                     "Lasteaed Locations" = "lasteaed",
+                     "Traffic Crimes" = "traffic",
+                     "Child Playgrounds" = "playgrounds",
+                     "Dog Parks" = "dogParks",
+                     "School Performance" = "schools",
+                     "Sport Facilities" = "sportCenters",
+                     "Historic Sale Prices" = "salePrices"
+)
+
+
+
 
 

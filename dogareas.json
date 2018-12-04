@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1669,
+    "longitude": 24.691656596362,
+    "type": "dogs",
+    "district": "Kristiine",
+    "latitude": 59.413757265308,
+    "name": "Tildri koerte jalutusplats",
+    "href": "/object/view/1669"
+  },
+  {
+    "id": 1670,
+    "longitude": 24.708850585706,
+    "type": "dogs",
+    "district": "Kristiine",
+    "latitude": 59.403626193509,
+    "name": "Tondimõisa pargi koerte jalutusplats",
+    "href": "/object/view/1670"
+  },
+  {
+    "id": 1671,
+    "longitude": 24.675992495715,
+    "type": "dogs",
+    "district": "Mustamäe",
+    "latitude": 59.396299691112,
+    "name": "Sõpruse puiestee",
+    "href": "/object/view/1671"
+  },
+  {
+    "id": 1672,
+    "longitude": 24.69806171149,
+    "type": "dogs",
+    "district": "Põhja-Tallinn",
+    "latitude": 59.443376865034,
+    "name": "Ehte koerte jalutusplats",
+    "href": "/object/view/1672"
+  },
+  {
+    "id": 1674,
+    "longitude": 24.645114905536,
+    "type": "dogs",
+    "district": "Haabersti",
+    "latitude": 59.406446601693,
+    "name": "Astangu koerte jalutusplats",
+    "href": "/object/view/1674"
+  },
+  {
+    "id": 1675,
+    "longitude": 24.711354739368,
+    "type": "dogs",
+    "district": "Põhja-Tallinn",
+    "latitude": 59.452457270242,
+    "name": "Karjamaa koerte jalutusplats",
+    "href": "/object/view/1675"
+  },
+  {
+    "id": 1676,
+    "longitude": 24.662844307124,
+    "type": "dogs",
+    "district": "Nõmme",
+    "latitude": 59.380704773054,
+    "name": "Kivimäe koerte jalutusplats",
+    "href": "/object/view/1676"
+  },
+  {
+    "id": 1677,
+    "longitude": 24.825252062976,
+    "type": "dogs",
+    "district": "Lasnamäe",
+    "latitude": 59.442307780059,
+    "name": "Liikuri koerte jalutusplats",
+    "href": "/object/view/1677"
+  },
+  {
+    "id": 1678,
+    "longitude": 24.648816353976,
+    "type": "dogs",
+    "district": "Haabersti",
+    "latitude": 59.415733439635,
+    "name": "Õismäe tiigi pargi koerte jalutusplats",
+    "href": "/object/view/1678"
+  },
+  {
+    "id": 1679,
+    "longitude": 24.764666325748,
+    "type": "dogs",
+    "district": "Kesklinn",
+    "latitude": 59.434037593626,
+    "name": "Politseiaia koerte jalutusplats",
+    "href": "/object/view/1679"
+  },
+  {
+    "id": 1680,
+    "longitude": 24.759516484439,
+    "type": "dogs",
+    "district": "Kesklinn",
+    "latitude": 59.42804917531,
+    "name": "Tiigiveski pargi koerte jalutusplats",
+    "href": "/object/view/1680"
+  },
+  {
+    "id": 1681,
+    "longitude": 24.735001094043,
+    "type": "dogs",
+    "district": "Kesklinn",
+    "latitude": 59.435739802486,
+    "name": "Toompargi koerte jalutusplats",
+    "href": "/object/view/1681"
+  },
+  {
+    "id": 2243,
+    "longitude": 24.871657610095,
+    "type": "dogs",
+    "district": "Lasnamäe",
+    "latitude": 59.447013094063,
+    "name": "Kivila pargi koerte jalutusplats",
+    "href": "/object/view/2243"
+  },
+  {
+    "id": 2245,
+    "longitude": 24.874786870947,
+    "type": "dogs",
+    "district": "Lasnamäe",
+    "latitude": 59.454553899693,
+    "name": "Vormsi koerte jalutusplats",
+    "href": "/object/view/2245"
+  },
+  {
+    "id": 2268,
+    "longitude": 24.666934337573,
+    "type": "dogs",
+    "district": "Mustamäe",
+    "latitude": 59.409268497262,
+    "name": "Kadaka pargi koerte jalutusplats",
+    "href": "/object/view/2268"
+  },
+  {
+    "id": 2269,
+    "longitude": 24.797070377988,
+    "type": "dogs",
+    "district": "Lasnamäe",
+    "latitude": 59.430861369011,
+    "name": "Pae pargi koerte jalutusväljak",
+    "href": "/object/view/2269"
+  },
+  {
+    "id": 2274,
+    "longitude": 24.710775422476,
+    "type": "dogs",
+    "district": "Kristiine",
+    "latitude": 59.426537563865,
+    "name": "Cederhilmi pargi koerte jalutusplats",
+    "href": "/object/view/2274"
+  },
+  {
+    "id": 2275,
+    "longitude": 24.879172955017,
+    "type": "dogs",
+    "district": "Lasnamäe",
+    "latitude": 59.4487107146,
+    "name": "Tondiloo pargi koerte jalutusplats",
+    "href": "/object/view/2275"
+  },
+  {
+    "id": 2281,
+    "longitude": 24.729536715283,
+    "type": "dogs",
+    "district": "Kesklinn",
+    "latitude": 59.423581012716,
+    "name": "Lilleküla koerte jalutusplats",
+    "href": "/object/view/2281"
+  }
+]
