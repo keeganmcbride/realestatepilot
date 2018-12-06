@@ -1,6 +1,6 @@
 #Server
 server <- function(input, output) {
-  key <- "your own key :)"
+  key <- "your own key"
   register_google(key=key)
   dataset <- reactive({
     plotDataset <- get(input$datasetChoice)
@@ -40,9 +40,10 @@ server <- function(input, output) {
     }
     if(input$datasets == "schools"){
       datasetVisualization <- schools
+
     }
-    
     datasetVisualization
+  
   })
   
   ##Create Custom Icons Here
@@ -62,19 +63,70 @@ server <- function(input, output) {
   
   addressIcons <- awesomeIcons(
     icon = 'home',
+    markerColor = "darkred",
+    library = 'fa',
+    iconColor = 'black'
+  )
+  
+  crashIcons <- awesomeIcons(
+    icon = 'car',
+    markerColor = "pink",
+    library = 'fa',
+    iconColor = 'black'
+  )
+  
+  crimeIcon <- awesomeIcons(
+    icon = 'user-secret',
     markerColor = "red",
     library = 'fa',
     iconColor = 'black'
   )
   
+  crime2Icon <- awesomeIcons(
+    icon = 'frown',
+    markerColor = "green",
+    library = 'fa',
+    iconColor = 'black'
+  )
+  
+  dogIcon <- awesomeIcons(
+    icon = 'paw',
+    markerColor = "orange",
+    library = 'fa',
+    iconColor = 'black'
+  )
+  
+  playgroundIcon <- awesomeIcons(
+    icon = 'child',
+    markerColor ="cadetblue",
+    library = 'fa',
+    iconColor = 'black'
+  )
+  
+  crash2Icon <- awesomeIcons(
+    icon = 'car',
+    markerColor = "darkpurple",
+    library = 'fa',
+    iconColor = 'black'
+  )
+  
+  
   output$outputmap <- renderLeaflet({
-    map <- leaflet() %>% addProviderTiles(providers$OpenStreetMap.Mapnik)  %>% setView(lng =  24.753574,
+    map <- leaflet() %>% addProviderTiles(providers$OpenStreetMap.Mapnik, group = "Mapnik") %>% 
+       addTiles("https://tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=yourownkey
+", group = "Transport") %>% 
+addProviderTiles(providers$Esri.WorldStreetMap, group = "WorldStreetMap") %>% 
+
+addProviderTiles(providers$Esri.WorldImagery, group = "WorldImagery") %>% 
+addLayersControl(baseGroups = c("Mapnik","Transport","WorldStreetMap","WorldImagery"),    options = layersControlOptions(collapsed = FALSE)
+) %>% 
+setView(lng =  24.753574,
                                                                                                    lat = 59.436962,
                                                                                                    zoom = 12) 
       if("property" %in% input$datasetChoice){
        property <- property %>% filter(ToimKpv>=input$dateSelect[1] & ToimKpv<=input$dateSelect[2])
-      map <- map %>%  addAwesomeMarkers(lng = property$lon,
-                                lat = property$lat,
+      map <- map %>% addTiles() %>%  addAwesomeMarkers(lng = property$lon,
+                                lat = property$lat, icon= crime2Icon,
                                 clusterOptions = markerClusterOptions(),
                                 popup= paste(
                                   "Time:", paste(property$ToimKpv ,property$ToimKell),
@@ -88,8 +140,8 @@ server <- function(input, output) {
     }
     if("crashDataCleanedFixed" %in% input$datasetChoice){
       crashDataCleanedFixed <- crashDataCleanedFixed %>% filter(Kuupäev>=input$dateSelect[1] & Kuupäev<=input$dateSelect[2])
-      map <- map %>% addAwesomeMarkers(lng = crashDataCleanedFixed$Lon,
-                                lat = crashDataCleanedFixed$Lat,
+      map <- map %>% addTiles() %>%   addAwesomeMarkers(lng = crashDataCleanedFixed$Lon,
+                                lat = crashDataCleanedFixed$Lat, icon = crash2Icon,
                                 clusterOptions = markerClusterOptions(),
                                 popup = paste(
                                   "Time:", paste(crashDataCleanedFixed$Kuupäev ,crashDataCleanedFixed$Kellaaeg),
@@ -102,8 +154,8 @@ server <- function(input, output) {
     if("public" %in% input$datasetChoice){
       public <- filter(public, public$ToimKpv>=input$dateSelect[1],public$ToimKpv<=input$dateSelect[2])
       
-      map <- map %>% addAwesomeMarkers(lng = public$lon,
-                                lat = public$lat,
+      map <- map %>% addTiles() %>%  addAwesomeMarkers(lng = public$lon,
+                                lat = public$lat, icon = crimeIcon,
                                 clusterOptions = markerClusterOptions(),
                                 popup = paste(
                                   "Time:", paste(public$ToimKpv, public$ToimKell),
@@ -118,7 +170,7 @@ server <- function(input, output) {
     }
     if("school" %in% input$datasetChoice){
       
-      map <- map %>% addAwesomeMarkers(lng = school$Lon,
+      map <- map %>% addTiles() %>%  addAwesomeMarkers(lng = school$Lon,
                                 lat = school$Lat, icon = schoolIcons,
                                 popup = paste(
                                   "Name:",
@@ -138,28 +190,27 @@ server <- function(input, output) {
     if("traffic" %in% input$datasetChoice){
       traffic <- traffic %>% filter(ToimKpv>=input$dateSelect[1] & ToimKpv<=input$dateSelect[2])
       
-      map <- map %>% addAwesomeMarkers(lng = traffic$lon,
-                                       lat = traffic$lat,
-                                       clusterOptions = markerClusterOptions(),
+      map <- map %>% addTiles() %>%   addAwesomeMarkers(lng = traffic$lon,
+                                       lat = traffic$lat, clusterOptions = markerClusterOptions(), icon = crashIcons,
                                        popup = paste(
                                          "Time:", paste(traffic$ToimKpv ,traffic$ToimKell),
                                          "<br>",
                                          "Type and Make:", paste(traffic$SoidukLiik, traffic$SoidukMark),
                                          "<br>",
-                                         "Code:", property$ParagrahvTais
+                                         "Code:", traffic$ParagrahvTais
                                        ))
     }
     if("playgrounds" %in% input$datasetChoice){
-      map <-  map %>%   addAwesomeMarkers(lng = playgrounds$longitude,
-                                          lat = playgrounds$latitude,
+      map <-  map %>% addTiles() %>%     addAwesomeMarkers(lng = playgrounds$longitude,
+                                          lat = playgrounds$latitude, icon = playgroundIcon,
                                           popup = paste(
                                             "Name:",
                                             playgrounds$name))
       
     }
     if("dogParks" %in% input$datasetChoice){
-      map <-  map %>%   addAwesomeMarkers(lng = dogParks$longitude,
-                                          lat = dogParks$latitude,
+      map <-  map %>% addTiles() %>%    addAwesomeMarkers(lng = dogParks$longitude,
+                                          lat = dogParks$latitude, icon = dogIcon,
                                           popup = paste(
                                             "Name:",
                                             dogParks$name))
@@ -167,7 +218,7 @@ server <- function(input, output) {
     }
     
     if("lasteaed" %in% input$datasetChoice){
-      map <-  map %>%   addAwesomeMarkers(lng = lasteaed$Lon,
+      map <-  map %>% addTiles() %>%     addAwesomeMarkers(lng = lasteaed$Lon,
                                 lat = lasteaed$Lat,icon = lasteaedIcons,
                                 popup = paste(
                                   "Name:",
@@ -199,9 +250,8 @@ server <- function(input, output) {
   
   #Takes an address input and places a marker on the map at given location
   observeEvent(input$addressButton, {
-     # leaflet::clearMarkers(leafletProxy('outputmap'))
       newMarker <- geocoding()
-      leafletProxy('outputmap') %>% addAwesomeMarkers(
+      leafletProxy('outputmap') %>% addTiles() %>% addAwesomeMarkers(
         lng = newMarker$lon,
         lat = newMarker$lat,
         icon = addressIcons,
@@ -211,7 +261,7 @@ server <- function(input, output) {
   
  # Outputs the datatable that is shown underneath the plot on main page
   output$dataview <- renderDataTable({
-    DT::datatable(datasetTest(), filter = 'top', options= list(autoWidth=TRUE))
+    DT::datatable(datasetTest(), filter = 'top', options= list(scrollX = TRUE))
   })
 
   #prints out the data that is shown in the datatable
@@ -220,7 +270,7 @@ server <- function(input, output) {
       paste("shiny_pilot_data_download", ".csv", sep = "")
     },
     content = function(file){
-      write.csv(datasetVisualization[input[["dataview_rows_all"]], ], file, row.names = FALSE)
+      write.csv(datasetTest()[input[["dataview_rows_all"]], ], file, row.names = FALSE)
       }
   )
   data_r <- reactiveValues(data = property, name = "property")

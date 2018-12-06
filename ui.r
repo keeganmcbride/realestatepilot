@@ -19,17 +19,15 @@ ui <-  navbarPage(theme = shinytheme("spacelab"),
                                   weekstart = 1, language = "en", separator = "-"
                    )),
                    mainPanel(
-                       tags$div(style="row", leafletOutput("outputmap", width = "100%", height = "800px"))
-                     #  , tags$div(style="row", DTOutput("dataview"))
-                     ,
-                     hr(
+                       leafletOutput("outputmap"),
+                                         hr(
                        "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 693849."
                      )))),
 
 tabPanel(title = "Data Visualizer",
          fluidPage(
            tags$div(
-             style = "height: 700px;", # needs to be in fixed height container
+             style = "height: 90vh;", # needs to be in fixed height container
              esquisserUI(
                id = "esquisse",
                header = FALSE, # dont display gadget title
@@ -38,7 +36,8 @@ tabPanel(title = "Data Visualizer",
 
 ),
 tabPanel(title = "Data Explorer",
-         fluidPage(
+         tags$style("html, body {overflow: visible !important;"),
+          fluidPage(
            sidebarLayout(
              sidebarPanel(
                selectizeInput("datasets",
